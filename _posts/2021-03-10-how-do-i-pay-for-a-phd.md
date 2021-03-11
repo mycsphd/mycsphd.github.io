@@ -1,5 +1,5 @@
 ---
-tag: hot-question
+tag: hot-question, faq
 title:  How do I pay for my Ph.D.?
 author: Steven Swanson
 ---
@@ -9,7 +9,7 @@ university will _pay you_ to get a Ph.D.!  This might seems to good to be true,
 but it is true, and it is how the vast majority of CS/CE students pay for their
 Ph.D.
 
-## How can that be?
+# How can that be?
 
 The key is that Ph.D. students are both students _and_ employees of the
 university.  In most cases, you will have either a research assistantship (RA)
@@ -37,7 +37,7 @@ When you are admitted to a Ph.D. program, they will provide details about the
 RA/TA they will provide.  The Taulbee Survey can be useful in seeing how that
 offers compares to other peer institutions.
 
-## Where does the money come from?
+# Where does the money come from?
 
 For GSRs, the money comes from research grants and contracts.  In the US and
 Canada, most CS research is funded by the government agencies (e.g., the
@@ -53,7 +53,7 @@ directly to the research that will, eventually, become your Ph.D. thesis.
 For TAs, the money comes from the university to help support their teaching
 mission.
 
-## So, I don't need more loans?
+# So, I don't need more loans?
 
 The short answer is "No".
 
@@ -65,7 +65,7 @@ Not only that, you can often
 your existing student loans because you will still be a student (You should
 check the terms of your particular loans, obviously).
 
-## Are there other sources of income as Ph.D. student?
+# Are there other sources of income as Ph.D. student?
 
 Many students do internships during the summer, and they can let you save a
 chunk of money during the summer to supplement your GSR during the school year.

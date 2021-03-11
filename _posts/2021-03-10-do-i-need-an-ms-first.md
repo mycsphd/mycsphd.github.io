@@ -1,5 +1,5 @@
 ---
-tag: resource
+tag: hot-question, faq 
 title:  Do I need to get a masters degree first?
 author: Steven Swanson
 ---
@@ -11,7 +11,7 @@ enroll in a masters program first.
 
 (There's a [video version](https://youtu.be/BWJKhhgPcf4?t=325) of this answer.)
 
-## Having an MS first provides no advantages
+# Having an MS first provides no advantages
 
 Having a masters degree does not give you a significant advantage during
 the application process.  Ph.D. programs regularly admit many students who have
@@ -26,7 +26,7 @@ You'll end up with an MS degree in addition to your Ph.D. anyway.
 Usually, when you finish the course work for your Ph.D. you incidentally
 satisfy the requirements for a masters at the same time.
 
-## Getting an MS first is a bad idea, if you know you want a Ph.D.
+# Getting an MS first is a bad idea, if you know you want a Ph.D.
 
 There are two reasons enrolling in a MS program first is a bad choice, _if_
 your ultimate goal is to get a Ph.D.
