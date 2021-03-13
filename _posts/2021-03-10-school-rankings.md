@@ -1,6 +1,7 @@
 ---
-tag: resource
 title:  How To Interpret School Rankings
+layout: post
+tag: resource
 author: Steven Swanson
 category: resource
 ---

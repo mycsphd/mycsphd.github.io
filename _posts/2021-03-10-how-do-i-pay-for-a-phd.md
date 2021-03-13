@@ -1,6 +1,7 @@
 ---
-tag: hot-question, faq
 title:  How do I pay for my Ph.D.?
+layout: post
+tag: hot-question, faq
 author: Steven Swanson
 ---
 

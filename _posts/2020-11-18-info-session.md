@@ -1,6 +1,7 @@
 ---
-tag: info-session
 title: CS Ph.D. Information Session — 18 November 2020
+layout: post
+tag: info-session
 category: info-session
 ---
 

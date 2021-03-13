@@ -1,6 +1,7 @@
 ---
-tag: hot-question, faq 
 title:  Do I need to get a masters degree first?
+layout: post
+tag: hot-question, faq 
 author: Steven Swanson
 ---
 
