@@ -2,6 +2,7 @@
 tag: resource
 title:  Comparing Schools with Taulbee Survey
 author: Steven Swanson
+category: resource
 ---
 
 Every year, the [Computing Research Association](https://cra.org/) (something

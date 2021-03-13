@@ -1,4 +1,16 @@
+# Setup
+title:            MyCSPhD
+tagline:          'Computer Science Ph.D. Information'
+description:      'Computer Science Ph.D. Information'
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-paginate
+
+theme: jekyll-theme-hydeout
+
+paginate:         5
+sidebar_home_link: true
+remote_theme: jekyll-theme-hydeout

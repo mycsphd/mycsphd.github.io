@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 title: About
+sidebar_link: true
 ---
-# About page
 
 Information for Computer Science Ph.D.

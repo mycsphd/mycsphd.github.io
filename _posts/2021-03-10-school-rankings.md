@@ -2,6 +2,7 @@
 tag: resource
 title:  How To Interpret School Rankings
 author: Steven Swanson
+category: resource
 ---
 
 There are many different rankings available for Ph.D. programs in CS.  They are

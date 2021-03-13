@@ -1,6 +1,7 @@
 ---
 tag: info-session
 title: CS Ph.D. Information Session — 3 December 2020
+category: info-session
 ---
 
 We held our second CS Ph.D. information session yesterday for \~350 registered attendees. Below, you can find links to questions we answered on YouTube and written answers to the questions we didn’t get to.
