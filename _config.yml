@@ -9,7 +9,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
 
-# theme: jekyll-theme-hydeout
+theme: jekyll-theme-hydeout
 
 paginate:         5
 sidebar_home_link: true
