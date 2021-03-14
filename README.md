@@ -35,3 +35,7 @@ Computer Science Ph.D. Information for Future Students.
 1. _config.yaml: cite name, cite description.
 2. sidebar color: assets/css/main.sass
 3. description: "Computer Science Ph.D. Information for Future Students." This appears in the website sidebar, website about page, README.md file and Repository about information.
+
+## Acknowledgement
+
+The theme is using jekyll [Hydeout](https://github.com/fongandrew/hydeout).
