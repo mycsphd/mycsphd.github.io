@@ -4,18 +4,18 @@ title: Wiki
 sidebar_link: true
 ---
 
-# What is a Ph.D.?
+## What is a Ph.D.?
 
 
 
-# Should you apply?
+## Should you apply?
 
 
-# Application process
+## Application process
 
 
 
-# Ph.D. Life
+## Ph.D. Life
 
 
-# Career
+## Career
