@@ -32,5 +32,6 @@ Computer Science Ph.D. Information for Future Students.
     - within each class, they are sorted by number in the file name.
 
 ## Important Attributes
-_config.yaml: cite name, cite description.
-sidebar color: assets/css/main.sass
+1. _config.yaml: cite name, cite description.
+2. sidebar color: assets/css/main.sass
+3. description: "Computer Science Ph.D. Information for Future Students." This appears in the website sidebar, website about page, README.md file and Repository about information.
