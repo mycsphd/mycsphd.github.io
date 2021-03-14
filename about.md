@@ -4,4 +4,4 @@ title: About
 sidebar_link: true
 ---
 
-Information for Computer Science Ph.D.
+Information of Computer Science Ph.D. for future students.
