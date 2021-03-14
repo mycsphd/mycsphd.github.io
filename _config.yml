@@ -2,12 +2,17 @@
 title:            MyCSPhD
 tagline:          'Computer Science Ph.D. Information'
 description:      'Computer Science Ph.D. Information'
+url:              https://mycsphd.github.io
+github_username:  mycsphd
+hydeout:
+  repo:           https://github.com/mycsphd/mycsphd.github.io
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-paginate
+  - github-pages
 
 theme: jekyll-theme-hydeout
 
