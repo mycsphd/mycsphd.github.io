@@ -14,8 +14,6 @@ plugins:
   - jekyll-paginate
   - github-pages
 
-theme: jekyll-theme-hydeout
-
 paginate:         5
 sidebar_home_link: true
 remote_theme: fongandrew/hydeout
