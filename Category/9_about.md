@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: category
 title: About
-sidebar_link: true
+category: about
 ---
 
 Information of Computer Science Ph.D. for future students.
