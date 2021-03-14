@@ -1,5 +1,7 @@
 # mycsphd.github.io
 
+Computer Science Ph.D. Information for Future Students.
+
 ## How to add a new post
 
 1. create a new markdown file in the _post directory.
@@ -13,3 +15,7 @@
         - category: if you want to add this page to a specific category page. Available options are in the Category folder. Check the front matter in each markdown file to see its category.
         - author: contributors.
 4. contents behind the front matter.
+
+## Important Attributes
+_config.yaml: cite name, cite description.
+sidebar color: assets/css/main.sass
