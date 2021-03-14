@@ -1,5 +1,5 @@
 ---
 layout: category
-title: resource
+title: Resource
 category: resource
 ---

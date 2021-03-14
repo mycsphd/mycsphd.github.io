@@ -1,5 +1,5 @@
 ---
 layout: category
-title: video
+title: Video
 category: video
 ---
