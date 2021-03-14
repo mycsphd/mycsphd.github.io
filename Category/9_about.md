@@ -11,4 +11,4 @@ This is a project initiated by Computer Science and Engineering Department at th
 <img src="https://mycsphd.github.io/assets/img/UCSDLogo_JSOE-ComputerSciEng_BlueGold.png" alt="CSE @ UC San Diego" width="400"/>
 <!-- ![placeholder](/assets/img/UCSDLogo_JSOE-ComputerSciEng_BlueGold.png "Large example image") -->
 
-Collaborators and Contributors include:
+Collaborators and Contributors:
