@@ -1,7 +1,8 @@
 ---
-tag: ['info-session']
+tags: ['info-session']
 title: CS Ph.D. Information Session — 18 November 2020
 author: Steven Swanson
+category: info-session
 ---
 
 We held our first CS Ph.D. information session last Wednesday for 285 registered attendees. Below, you can find links to questions we answered on YouTube and written answers to the questions we didn’t get to.
