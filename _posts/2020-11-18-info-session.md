@@ -1,6 +1,7 @@
 ---
-tag: info-session
+tag: ['info-session']
 title: CS Ph.D. Information Session — 18 November 2020
+author: Steven Swanson
 ---
 
 We held our first CS Ph.D. information session last Wednesday for 285 registered attendees. Below, you can find links to questions we answered on YouTube and written answers to the questions we didn’t get to.
@@ -56,13 +57,13 @@ The benefits are that you get trained to do research-style work rather than “j
 
 A pro/con is funding. PhDs tend to be funded, which means they are generally more competitive to get into. The funding is usually either for TAing or research, so while you’re in the degree you’ll have TAing or research obligations. But you get money, which is nice. Also at UCSD PhD students are “treated better” by the bureaucracy of things — if there are limited seats in a class, PhD students get first dibs. Same for TAing opportunities.
 
-## <span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;I don't have a very strong GPA(3.1), however, I have a NeurIPS workshop publication and other internship experiences. will my GPA affect the admissions?&quot;}" data-sheets-userformat="{&quot;2&quot;:14337,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:11}">I don’t have a very strong GPA(3.1), however, I have a NeurIPS workshop publication and other internship experiences. will my GPA affect the admissions?</span>
+## I don't have a very strong GPA(3.1), however, I have a NeurIPS workshop publication and other internship experiences. will my GPA affect the admissions?
 
 ### Steven Swanson — Professor
 
 Yes, but the NeurIPS paper will help. I would not assume that either will sink or save your application, so apply widely.
 
-## <span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;How do graduate courses compare with undergraduate courses, in terms of difficulty and workload?&quot;}" data-sheets-userformat="{&quot;2&quot;:14339,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:16773836},&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:11}">How do graduate courses compare with undergraduate courses, in terms of difficulty and workload?</span>
+## How do graduate courses compare with undergraduate courses, in terms of difficulty and workload?
 
 ### Steven Swanson — Professor
 
@@ -72,7 +73,7 @@ From the instructor’s perspective, they are less structured, more abstract, an
 
 In my experience, they are much easier. This is both because the coursework requirements are usually lesser, you take fewer of them at a time, and because they tend to be closer to something you’re already familiar with (so often take less grappling with entirely unfamiliar concepts).
 
-### <span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Sachiko Matsumoto&quot;}" data-sheets-userformat="{&quot;2&quot;:31489,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:11,&quot;17&quot;:1}">Sachiko Matsumoto — Grad Student</span>
+### Sachiko Matsumoto - Grad Student.
 
 In my experience, they tend to be easier, but it can vary a lot from class to class and depends on your prior experience/classes.
 
@@ -152,7 +153,7 @@ It depends very much on the advisor. Most advisors prefer that their students wo
 
 The hardest part of a PhD is learning to do research. You’re trying to do something that nobody’s ever done before, and it might not work. The material in your undergraduate courses has been digested into lecture-sized pieces and translated into textbooks, and the assignments are designed to be doable. Research can involve a lot of failure and rejection and trying to puzzle through entirely new ideas. The course and exam requirements in a PhD are fairly straightforward hoops to jump through if the harder parts (making progress on research, learning to write papers, and staying motivated) are going ok.
 
-## <span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;What is the typical route a PhD student follows after earning a PhD? What if one's goal is to teach at the college level?&quot;}" data-sheets-userformat="{&quot;2&quot;:14337,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:11}">What is the typical route a PhD student follows after earning a PhD? What if one’s goal is to teach at the college level?</span>
+## What is the typical route a PhD student follows after earning a PhD? What if one's goal is to teach at the college levelWhat is the typical route a PhD student follow after earning a PhD? What if one’s goal is to teach at the college level?
 
 ### Steven Swanson — Professor
 
@@ -164,7 +165,7 @@ Teaching at the college level can mean multiple things. If your goal is a tenure
 
 If your goal is a more teaching-oriented position at an undergraduate-focused institution or as a lecturer at a research university, then you would likely try to gain more solo teaching experience during your PhD by, for example, teaching some large classes. Then you would apply to faculty or lecturer positions in your last year as a PhD student. People who get jobs in industry often already have connections at some companies from doing summer internships during their PhDs. You would apply for industry positions after your PhD in a similar way to students coming out of undergrad, except that you have several years of experience in grad school and may have more connections.
 
-## <span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;How do you deal with the stress of a graduate program?&quot;}" data-sheets-userformat="{&quot;2&quot;:14339,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:16773836},&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:11}">How do you deal with the stress of a graduate program?</span>
+## How do you deal with the stress of a graduate program
 
 ### Mark Schultz — Grad Student
 

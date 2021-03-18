@@ -1,11 +1,11 @@
 ---
-tag: hot-question, faq 
+tags: ['hot-question', 'faq'] 
 title:  Do I need to get a masters degree first?
 author: Steven Swanson
 ---
 
 
-NO!  You **do not** need to get masters degree before enrolling in a
+NO!  You **do not** need to get a masters degree before enrolling in a
 Ph.D. program.  In fact, if you know you want a Ph.D., it is a bad idea to
 enroll in a masters program first.
 
@@ -38,8 +38,8 @@ that while 84% of Ph.D. students are fully supported on a TA, RA, or
 fellowship, while only 6% of MS are supported (which means that 94% are paying
 their own way).
 
-Secondy, the course work requirements for your Ph.D. program may not line up
-with the the courses you took for your MS.  In this case, you'll end up taking
+Second, the course work requirements for your Ph.D. program may not line up
+with the courses you took for your MS.  In this case, you'll end up taking
 _more_ classes if you do the MS first, at a different school.
  
 So, if you know you want a Ph.D., apply to and enroll in a Ph.D. program!

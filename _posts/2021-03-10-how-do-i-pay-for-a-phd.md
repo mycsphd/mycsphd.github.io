@@ -5,7 +5,7 @@ author: Steven Swanson
 ---
 
 In most cases, you don't have to pay to get a Ph.D. in CS.  Instead, the
-university will _pay you_ to get a Ph.D.!  This might seems to good to be true,
+university will _pay you_ to get a Ph.D.!  This might seem to good to be true,
 but it is true, and it is how the vast majority of CS/CE students pay for their
 Ph.D.
 
@@ -61,14 +61,14 @@ The longer answer is that, of course, it depends on your financial situation.
 However, most students do not acrue more student debt to get a Ph.D.  
 
 Not only that, you can often
-(defer)[https://studentaid.gov/manage-loans/lower-payments/get-temporary-relief/deferment]
+[defer](https://studentaid.gov/manage-loans/lower-payments/get-temporary-relief/deferment)
 your existing student loans because you will still be a student (You should
 check the terms of your particular loans, obviously).
 
-# Are there other sources of income as Ph.D. student?
+# Are there other sources of income as a Ph.D. student?
 
 Many students do internships during the summer, and they can let you save a
 chunk of money during the summer to supplement your GSR during the school year.
 
-Working a second job as Ph.D. student during the school year is less common.
+Working a second job as a Ph.D. student during the school year is less common.
 Being a Ph.D. student is really a full-time job.
