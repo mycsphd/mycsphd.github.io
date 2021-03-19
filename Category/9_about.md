@@ -36,9 +36,10 @@ might or might not what to get a Ph.D.
 
 The My CS Ph.D. is was started in the [Deparment of Computer Science and
 Engineering](http://cs.ucsd.edu) at the [University of California, San
-Diego](http://ucsd.edu).
+Diego](http://ucsd.edu).  Send questions to
+[mailto:swanson+phd-info@eng.ucsd.edu](swanson@cs.ucsd.edu).
 
-<img src="https://mycsphd.github.io/assets/img/UCSDLogo_JSOE-ComputerSciEng_BlueGold.png" alt="CSE @ UC San Diego" width="400"/>
+[![UCSD CSE](/assets/img/ucsdcse_logo.png)](http://cs.ucsd.edu)
 
 <!-- If no need to specify the image size, use markdown is easier. -->
 <!-- ![placeholder](/assets/img/UCSDLogo_JSOE-ComputerSciEng_BlueGold.png "Large example image") -->
