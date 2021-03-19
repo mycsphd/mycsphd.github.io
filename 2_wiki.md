@@ -1,11 +1,11 @@
 ---
 layout: page
-title: The My CS Ph.D. Guide
+title: Common Questions
+#The My CS Ph.D. Guide
 sidebar_link: true
+sidebar_sort_order: 100
 ---
 
-The site hosts a series of articles discussing different aspects of deciding to
-pursue, applying for, and selecting a school to attend for a Ph.D. 
 
 ## To Ph.D. or Not to Ph.D.
 

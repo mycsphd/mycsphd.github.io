@@ -1,10 +1,10 @@
 ---
 layout: category
-title: Info Session
+title: Info Sessions
 category: info-session
 ---
 
-We have hosted some info sessions online for additional questions, more coming soon!
+We host regular online information sessions about getting a Ph.D. in CS.  Links to information about them and recordings are below.
 
 <hr>
 
