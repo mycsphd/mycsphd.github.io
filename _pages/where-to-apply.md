@@ -1,6 +1,7 @@
 ---
 layout: article
 title: How should I decide where to apply?
+author: Steven Swanson
 ---
 
 
@@ -46,6 +47,15 @@ Remember, if applying to more schools gets you into a better Ph.D., the benefits
 ## Make Your List
 
 Taking all of the above into account, apply to a range of schools (based on rankings) that meet your other criteria (research area, geography, etc.).  I would apply to relatively more higher-ranked schools, since your odds will be less good there.  If you are unsure if you should apply somewhere, apply.
+
+## Video Answers To Related Questions
+
+* [What are some of the qualities of an ideal candidate for a PhD? Conversely, what might raise a red flag in a candidate’s application?](https://youtu.be/thZdtIQ3i_g?t=934)
+* [How do I know where to apply? Where might I get in?](https://youtu.be/BWJKhhgPcf4?t=2144) [Another answer.](https://youtu.be/BWJKhhgPcf4?t=457)
+* [What matters most in the application? Undergrad grades, graduate (MS) grades, GMAT/GRE, recommendations or research experience?](https://youtu.be/thZdtIQ3i_g?t=1123)
+* [How does work experience as software engineer factor in? Or does that only count if you’re part of a published research project?](https://youtu.be/thZdtIQ3i_g?t=1696)
+* [What’s the weight of different parts of the application (test scores, grades, letters, SOP, undergraduate research)?](https://youtu.be/thZdtIQ3i_g?t=934) [Another answer.](https://youtu.be/BWJKhhgPcf4?t=451)
+
 
 ## Other Perspectives
 

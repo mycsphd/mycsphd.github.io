@@ -114,19 +114,19 @@ means you should pick those names with care.
 
 ## Video Answers To Related Questions
 
+* [What matters most in the application? Undergrad grades, graduate (MS) grades, GMAT/GRE, recommendations or research experience?	](https://youtu.be/thZdtIQ3i_g?t=1123)
+* [How does work experience as software engineer factor in? Or does that only count if you’re part of a published research project?	](https://youtu.be/thZdtIQ3i_g?t=1696)
+* [How important is it to reach out to potential advisors before applying? Can they vouch for you in the application process later on?	](https://youtu.be/thZdtIQ3i_g?t=3163)
+* [Should I still apply if I don’t have any research experience?	](https://youtu.be/thZdtIQ3i_g?t=2250)
+* [What’s the weight of different parts of the application (test scores, grades, letters, SOP, undergraduate research)?	](https://youtu.be/thZdtIQ3i_g?t=934) 
+* [What are some of the qualities of an ideal candidate for a PhD? Conversely, what might raise a red flag in a candidate’s application?](https://youtu.be/BWJKhhgPcf4?t=457)
+* [Should I still apply if I don’t have any research experience?](https://youtu.be/BWJKhhgPcf4?t=779)
 
-|What are some of the qualities of an ideal candidate for a PhD? Conversely, what might raise a red flag in a candidate’s application?|https://youtu.be/thZdtIQ3i_g?t=934|
-|Another answer to the above|https://youtu.be/BWJKhhgPcf4?t=457|
-|What matters most in the application? Undergrad grades, graduate (MS) grades, GMAT/GRE, recommendations or research experience?|https://youtu.be/thZdtIQ3i_g?t=1123|
-|How does work experience as software engineer factor in? Or does that only count if you’re part of a published research project?|https://youtu.be/thZdtIQ3i_g?t=1696|
-|What’s the weight of different parts of the application (test scores, grades, letters, SOP, undergraduate research)?|https://youtu.be/thZdtIQ3i_g?t=934|
-|Another answer to the above|https://youtu.be/BWJKhhgPcf4?t=451|
-|Should I still apply if I don’t have any research experience?|https://youtu.be/BWJKhhgPcf4?t=779|
 
 ## Other Perspectives
 
-*   [Karthik Raghunathan’s essay on Ph.D. admissions](https://nlp.stanford.edu/~rkarthik/DAGAP.pdf) provides a discussion of each component of our application.
-*   Section 3 of [Applying to Ph.D. Programs in Computer Science](2021-03-14-mor-harchol-balter-essay.md) discusses application components and their importance.
-*   [Amin Vahdat’s](https://idleprocess.wordpress.com/2009/12/07/why-go-to-graduate-school-and-how-to-get-into-the-program-of-your-dreams/)
+*  [Karthik Raghunathan’s essay on Ph.D. admissions](https://nlp.stanford.edu/~rkarthik/DAGAP.pdf) provides a discussion of each component of our application.
+*  Section 3 of [Applying to Ph.D. Programs in Computer Science](2021-03-14-mor-harchol-balter-essay.md) discusses application components and their importance.
+*  [Amin Vahdat’s](https://idleprocess.wordpress.com/2009/12/07/why-go-to-graduate-school-and-how-to-get-into-the-program-of-your-dreams/)
  thoughts on the whole Ph.D. application processor.  Search for “Q: What does the admissions committee look for in a successful applicant?”
-*   Dave Anderson’s [Reflecting on CS Graduate Admissions](https://da-data.blogspot.com/2015/03/reflecting-on-cs-graduate-admissions.html) provide some perspective on how admissions works.  Keep in mind that Dave is at at CMU (#1 in US News and #1 in CS rankings), so the criteria they apply are at the very extreme end of selectivity.
+*  Dave Anderson’s [Reflecting on CS Graduate Admissions](https://da-data.blogspot.com/2015/03/reflecting-on-cs-graduate-admissions.html) provide some perspective on how admissions works.  Keep in mind that Dave is at at CMU (#1 in US News and #1 in CS rankings), so the criteria they apply are at the very extreme end of selectivity.
