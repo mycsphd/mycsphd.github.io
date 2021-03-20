@@ -19,6 +19,17 @@ San Diego, and it does not promote any particular school.
 Our hope is that this information will be useful in deciding whether a Ph.D. is
 right for you and in guiding you through the application process.
 
+# Upcoming Information Sessions 
+
+We have two [live information sessions](/upcoming-sessions) coming up in April.  You should come!
+
+| Date/Time                | Topics                     |
+|--------------------------|----------------------------|
+| April 13, 12:30-1:30 PDT | Ph.D. Student Life         |
+|                          | What is Research?          |
+| April 21, 12:00-1:00 PDT | Applying to Ph.D. Programs |
+|                          | Should I get a Ph.D.?      |
+
 # Key Resources
 
 The site provides five main resources:
