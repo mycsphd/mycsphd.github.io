@@ -30,6 +30,10 @@ Before attending, it please checkout the [FAQ]({{ site.baseurl }}/2_wiki.html).
 # Organizers
 
 <table>
+<colgroup>
+<col span="1" style="width: 20%"/>
+<col span="1" style="width: 80%"/>
+</colgroup>
 {% for p in t %}
 {% if p.type == 'org' %}
 <tr>
@@ -47,10 +51,11 @@ Before attending, it please checkout the [FAQ]({{ site.baseurl }}/2_wiki.html).
 <td></td>
 {% endif %}
 <td>
+<div>
 {% if p.homepage != nil %}
 <a href="{{p.homepage}}">
 {% endif %}
-{{ p.first }} {{p.last}}{% if p.homepage != nil %}</a>{% endif %}, {{ p.org }} ({{p.area}})</td>
+{{ p.first }} {{p.last}}{% if p.homepage != nil %}</a>{% endif %}, {{ p.org }} ({{p.area}})</div><div style="font-size: small">{{p.bio}}</div></td>
 </tr>
 {% endif %}
 {% endfor %}
@@ -62,6 +67,10 @@ Before attending, it please checkout the [FAQ]({{ site.baseurl }}/2_wiki.html).
 ## Students
 
 <table>
+<colgroup>
+<col span="1" style="width: 20%"/>
+<col span="1" style="width: 80%"/>
+</colgroup>
 {% for p in t %}
 {% if p.type == 'Ph.D. Student' %}
 <tr>
@@ -79,10 +88,11 @@ Before attending, it please checkout the [FAQ]({{ site.baseurl }}/2_wiki.html).
 <td></td>
 {% endif %}
 <td>
+<div>
 {% if p.homepage != nil %}
 <a href="{{p.homepage}}">
 {% endif %}
-{{ p.first }} {{p.last}}{% if p.homepage != nil %}</a>{% endif %}, {{ p.org }} ({{p.area}})</td>
+{{ p.first }} {{p.last}}{% if p.homepage != nil %}</a>{% endif %}, {{ p.org }} ({{p.area}})</div><div style="font-size: small">{{p.bio}}</div></td>
 </tr>
 {% endif %}
 {% endfor %}
@@ -90,10 +100,13 @@ Before attending, it please checkout the [FAQ]({{ site.baseurl }}/2_wiki.html).
 
 
 
-
 ## Faculty
 
 <table>
+<colgroup>
+<col span="1" style="width: 20%"/>
+<col span="1" style="width: 80%"/>
+</colgroup>
 {% for p in t %}
 {% if p.type == 'Professor' %}
 <tr>
@@ -111,13 +124,12 @@ Before attending, it please checkout the [FAQ]({{ site.baseurl }}/2_wiki.html).
 <td></td>
 {% endif %}
 <td>
+<div>
 {% if p.homepage != nil %}
 <a href="{{p.homepage}}">
 {% endif %}
-{{ p.first }} {{p.last}}{% if p.homepage != nil %}</a>{% endif %}, {{ p.org }} ({{p.area}})</td>
+{{ p.first }} {{p.last}}{% if p.homepage != nil %}</a>{% endif %}, {{ p.org }} ({{p.area}})</div><div style="font-size: small">{{p.bio}}</div></td>
 </tr>
 {% endif %}
 {% endfor %}
 </table>
-
-
