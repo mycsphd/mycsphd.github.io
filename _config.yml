@@ -14,8 +14,9 @@ plugins:
   - jekyll-paginate
   - github-pages
   - jekyll-redirect-from
-
-google_analytics: G-FKY84EGHBL
+  - jemoji
+  
+google_analytics: 266283771
 
 whitelist:
   - jekyll-redirect-from
