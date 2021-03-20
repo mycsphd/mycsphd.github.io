@@ -25,7 +25,7 @@ You can register [here]().  It's free!
 
 Before attending, it please checkout the [FAQ]({{ site.baseurl }}/2_wiki.html).
 
-{% assign t = site.data.2021_sp_panelist_metadata |sort:"last" %}
+{% assign t = site.data._2021_sp_panelist_metadata | sort:"last" %}
 
 # Organizers
 

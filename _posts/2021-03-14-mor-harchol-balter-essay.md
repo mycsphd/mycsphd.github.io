@@ -1,6 +1,7 @@
 ---
+title:  \"Applying to Ph.D. Programs in Computer Science\" by Mor Harchol-Balter
+layout: post
 tags: ['resource']
-title:  "Applying to Ph.D. Programs in Computer Science" by Mor Harchol-Balter
 author: Steven Swanson
 ---
 

@@ -11,7 +11,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-paginate
+#  - jekyll-paginate
   - github-pages
   - jekyll-redirect-from
   - jemoji
