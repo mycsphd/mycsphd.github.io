@@ -16,7 +16,7 @@ plugins:
   - jekyll-redirect-from
   - jemoji
   
-google_analytics: 266283771
+google_analytics: G-FKY84EGHBL
 
 whitelist:
   - jekyll-redirect-from
