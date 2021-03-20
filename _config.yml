@@ -13,7 +13,11 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - github-pages
+  - jekyll-redirect-from
 
+whitelist:
+  - jekyll-redirect-from
+  
 include:
   - _pages
   - _blog.html
