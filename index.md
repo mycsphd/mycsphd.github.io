@@ -21,7 +21,7 @@ right for you and in guiding you through the application process.
 
 # Key Resources
 
-The site provides four main resources:
+The site provides five main resources:
 
 1. [A FAQ]({{ site.baseurl }}/2_wiki.html) --  a set of articles that answer the most common questions students have (or should have) about getting and applying for a Ph.D.
 3. [Online information sessions]({{ site.baseurl }}/Category/5_info-session.md) -- Professors and Ph.D. students answer your questions, live!

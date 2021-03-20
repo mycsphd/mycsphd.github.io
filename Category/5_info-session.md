@@ -8,4 +8,4 @@ We host regular online information sessions about getting a Ph.D. in CS.  Links 
 
 <hr>
 
-## Past Info Sessions
+## Latest Info Session News
