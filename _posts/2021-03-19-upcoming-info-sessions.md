@@ -3,7 +3,7 @@ title: Spring 2021 Ph.D. Information Sessions
 author: Steven Swanson
 category: info-session
 tags: ['info-session']
-published: false
+redirect_from:  /upcoming-sessions
 ---
 
 We have two live information sessions coming up in April.  They will be held on
