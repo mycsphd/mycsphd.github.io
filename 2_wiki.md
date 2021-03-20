@@ -28,7 +28,7 @@ etc.-->
 
 <!-- 0.  What’s the timeline for applying to Ph.D. programs?-->
 1.  [How does Ph.D. admissions work?]({{ site.baseurl }}{% link _pages/phd-admissions.md %})
-2.  [What parts of my application matter most?]({{ site.baseurl}}{% link _posts/2021-03-10-school-rankings.md %})
+2.  [What parts of my application matter most?]({{ site.baseurl}}{% link _pages/application-parts.md %})
 <!-- 3.  How do I get good letters of Rec?-->
 <!-- 4.  How do I write a good statement of purpose?-->
 5.  [How do I decide where to apply?]({{ site.baseurl}}{% link _pages/where-to-apply.md %})

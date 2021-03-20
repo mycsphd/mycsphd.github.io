@@ -1,6 +1,6 @@
 ---
 tags: ['resource']
-title:  Comparing Schools with Taulbee Survey
+title:  Comparing Schools With the Taulbee Survey
 layout: post
 author: Steven Swanson
 category: resource

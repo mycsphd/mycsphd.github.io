@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: How Does CS Ph.D. Admissions Work?
 --- 
 

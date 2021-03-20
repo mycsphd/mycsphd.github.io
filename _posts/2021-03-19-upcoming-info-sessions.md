@@ -59,8 +59,6 @@ Before attending, it please checkout the [FAQ]({{ site.baseurl }}/2_wiki.html).
 
 # Panelists
 
-
-
 ## Students
 
 <table>
@@ -89,6 +87,7 @@ Before attending, it please checkout the [FAQ]({{ site.baseurl }}/2_wiki.html).
 {% endif %}
 {% endfor %}
 </table>
+
 
 
 
