@@ -20,8 +20,7 @@ getting a Ph.D.
 You don't need to choose a track, you'll be able to freely switch back and
 forth.
 
-You can register [here]().  It's free!
-
+You can register [here](https://www.eventbrite.com/e/computer-science-phd-info-session-registration-147339310845).  It's free!
 
 Before attending, it please checkout the [FAQ]({{ site.baseurl }}/2_wiki.html).
 
