@@ -5,7 +5,7 @@ title: Home
 
 # Whether, Why, and How to Get a Ph.D. in Computer Science
 
--------
+<img src="/assets/img/logo.png" style="margin: 5pt; float: right; width:35%;"/>
 
 This site collects information about the why and how of getting a Ph.D. in
 computer science and closely related disciplines.
