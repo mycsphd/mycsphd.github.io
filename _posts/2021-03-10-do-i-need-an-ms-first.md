@@ -31,7 +31,7 @@ So, if you know you want a Ph.D., apply to and enroll in a Ph.D. program!
 
 The one exception to above might be if your undergraduate grades/project experience are not good enough to get into the Ph.D. program you want and you are determined to get a Ph.D.  In this case, you could enroll in an MS program, excel at it, and then apply to Ph.D. programs.
 
-You will likely need to do very well in the MS program since Ph.D. admissions committees often hold MS-holding applicants to a higher standard thn students straight out of undergrad.
+You will likely need to do very well in the MS program since Ph.D. admissions committees often hold MS-holding applicants to a higher standard than students straight out of undergrad.
 
 Even in this case, though, you should apply to Ph.D. programs too:  You might get in and save yourself the MS tuition money and time.
 
