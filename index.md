@@ -5,7 +5,7 @@ title: Home
 
 # Whether, Why, and How to Get a Ph.D. in Computer Science
 
--------
+<img src="/assets/img/logo.png" style="margin: 5pt; float: right; width:35%;"/>
 
 This site collects information about the why and how of getting a Ph.D. in
 computer science and closely related disciplines.
@@ -32,10 +32,10 @@ We have two [live information sessions](/upcoming-sessions) coming up in April. 
 
 # Key Resources
 
-The site provides five main resources:
+The site provides several resources:
 
 1. [A FAQ]({{ site.baseurl }}/2_wiki.html) --  a set of articles that answer the most common questions students have (or should have) about getting and applying for a Ph.D.
-   3. [Online information sessions]({{ site.baseurl }}/Category/5_info-session.md) -- Professors and Ph.D. students answer your questions, live (and [on YouTube](https://www.youtube.com/channel/UChjPbPsBwexriAwcnHdJTGw))!
+3. [Online information sessions]({{ site.baseurl }}/Category/5_info-session.md) -- Professors and Ph.D. students answer your questions, live (and [on YouTube](https://www.youtube.com/channel/UChjPbPsBwexriAwcnHdJTGw)).
 4. [A Blog](_blog.html) with announcement and articles of interest.
 <!--2. [A YouTube Channel](https://www.youtube.com/channel/UChjPbPsBwexriAwcnHdJTGw) with interviews with current Ph.D. students, professors, and Ph.D.-holding computer scientists working industry.-->
 5. [Other Resources]({{ site.baseurl }}/Category/7_resource.md) -- There are many other good resoures about CS Ph.D.s.  We link to them throughout the site.
@@ -48,3 +48,4 @@ Diego](http://ucsd.edu).  Send questions to
 
 
 [![UCSD CSE](/assets/img/ucsdcse_logo.png)](http://cs.ucsd.edu)
+

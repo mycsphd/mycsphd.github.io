@@ -8,10 +8,26 @@ $body-color:#182B49;
 //$large-font-size: 0.95rem;
 $sidebar-sticky: true;
 @import "hydeout";
+
 html {
   font-size: $root-font-size;
 
   @media (min-height: $large-breakpoint) {
     font-size: $large-font-size;
   }
+}
+
+
+.bottom-logo {
+    margin: auto; width:25%;
+}
+
+.copyright-div {
+    line-height: 1;
+    font-size: x-small;
+}
+
+.copyright-box {
+    text-align: center;
+    margin-bottom: 1em;
 }
