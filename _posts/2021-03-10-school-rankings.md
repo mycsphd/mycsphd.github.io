@@ -36,11 +36,11 @@ I would focus on two rankings sites:
 US News and CS Rankings provide different kinds of information because they use
 different methodologies.  The US News
 [methodology](https://www.usnews.com/education/best-graduate-schools/articles/science-schools-methodology)
-is "reputation based" in that relies on surveys sent to professors.  The
+is "reputation based" in that it relies on a survey sent to professors.  The
 survey asks the professors to rank the schools based on how good the professor _thinks_
-the schools are.  Reputation is important (having a degree from a "big name" can
-open doors), but it is not always a good measure of actual quality since good
-reputation and persist even after research quality declines.
+the schools are.  Reputation is important  -- having a degree from a "big name" can
+open doors -- but it is not always a good measure of actual quality since good
+reputation can persist even after research quality declines.
 
 CS Ranking's [methodology](http://csrankings.org/faq.html) is based on how many
 papers the university publishes in the most prestigious CS publication venues.  It
@@ -70,11 +70,11 @@ Rankings are useful in two ways during the application process.
 
 First, you can use them to choose where to apply.  Use both sites to generate
 an ordered list of schools based on overall ranking and ranking in your area of
-interest.  Merge those lists together and use the result as a filter out
-schools further.
+interest.  Merge those lists together and use the result as a starting point
+from which to filter schools further.
 
 Second, if you have multiple offers of admission, you can use their relative
 rankings overall and in your specific field as one factor among many to help
 you choose which to accept.
 
-In neither case should you spend too much time worrying them.
+In neither case should you spend too much time worrying about rankings.
