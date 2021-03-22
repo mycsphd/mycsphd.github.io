@@ -59,6 +59,7 @@ Taking all of the above into account, apply to a range of schools (based on rank
 
 ## Other Perspectives
 
-* This [post on Quora](https://qr.ae/pN0aiy) from Manasa Prakash is good.
 * [Dartmouth’s page](https://web.cs.dartmouth.edu/undergraduate/graduate-school-advice#How%20do%20I%20pick%20a%20list%20of%20programs%20to%20apply%20to?) about picking schools has good advice.
-
+* Philip Guo has a nice [video](https://www.youtube.com/watch?v=hOSl3xPmHiQ&t=231s&ab_channel=PhilipGuo) on finding places to apply with [CS Rankings](http://csrankings.org).
+* [Jeff Huang](https://jeffhuang.com/) at Brown has [a page](https://jeffhuang.com/finding_computer_science_phd/) with advice as well.
+* This [post on Quora](https://qr.ae/pN0aiy) from Manasa Prakash is good.
