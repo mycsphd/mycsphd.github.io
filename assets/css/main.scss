@@ -5,6 +5,13 @@ $sidebar-bg-color: #006A96;
 $link-color: #C69214;
 $heading-color:#182B49;
 $body-color:#182B49;
-$large-font-size: 0.95rem;
+//$large-font-size: 0.95rem;
 $sidebar-sticky: true;
 @import "hydeout";
+html {
+  font-size: $root-font-size;
+
+  @media (min-height: $large-breakpoint) {
+    font-size: $large-font-size;
+  }
+}
