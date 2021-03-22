@@ -40,11 +40,11 @@ is "reputation based" in that it relies on a survey sent to professors.  The
 survey asks the professors to rank the schools based on how good the professor _thinks_
 the schools are.  Reputation is important  -- having a degree from a "big name" can
 open doors -- but it is not always a good measure of actual quality since good
-reputation can persist even after research quality declines.
+reputation can persist even after research quality declines.  [Some argue](https://github.com/GOTOrankings/gotorankings.github.io/raw/master/p29-berger.pdf) that it is best to ignore reputation-based rankings altogether.
 
-CS Ranking's [methodology](http://csrankings.org/faq.html) is based on how many
+CS Ranking's [methodology](http://csrankings.org/faq.html) takes a more objective and transparent approach.  It is based on how many
 papers the university publishes in the most prestigious CS publication venues.  It
-has the advantage that it's completely empirical and transparent.
+has the advantage that it's completely empirical and a school's position is determined directly by a reasonable measure of research success (i.e., publishing papers).
 
 You should pay attention to both the overall quality of the Ph.D. program and its
 quality _in your area_.  These can diverge quite a bit.  For instance, CS rankings
@@ -78,3 +78,11 @@ rankings overall and in your specific field as one factor among many to help
 you choose which to accept.
 
 In neither case should you spend too much time worrying about rankings.
+
+# More Ranking Sites
+
+The two rankings mentioned above are, in my opinion, good enough to guide you selection of schools to apply to.  However there are other objective ranking sites out there:
+
+* [Placement Rank](https://drafty.cs.brown.edu/csopenrankings/placement-rank.html) ranks schools by where they send faculty.
+* [Computer Science Open Rankings](https://drafty.cs.brown.edu/csopenrankings/) is a metaranking that combines several other ranking metrics into one.
+* [Institutional Publication Metrics for Computer Science](http://csmetrics.org/) provides an impressively complicated interface for comparing schools.
