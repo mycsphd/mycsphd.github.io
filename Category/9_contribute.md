@@ -12,8 +12,10 @@ people navigating their way to a Ph.D. in CS, we'd love to hear about it.
 Some things to keep in mind:
 
 * Despite the existence and usefulness of [school rankings]({% post_url 2021-03-10-school-rankings %}), the site does not promote some schools over others.
-* The site loves hearing about your _first-hand_ experience with the Ph.D. process.
+* The site loves hearing about your _first-hand_ experience getting, advising, and having a Ph.D. in CS.
 * The site loves hearing about useful/relevant data about Ph.D. and analysis thereof.
+
+All contribution are made under the <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 ## Providing Links to Resources
 
