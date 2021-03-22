@@ -35,7 +35,7 @@ We have two [live information sessions](/upcoming-sessions) coming up in April. 
 The site provides five main resources:
 
 1. [A FAQ]({{ site.baseurl }}/2_wiki.html) --  a set of articles that answer the most common questions students have (or should have) about getting and applying for a Ph.D.
-3. [Online information sessions]({{ site.baseurl }}/Category/5_info-session.md) -- Professors and Ph.D. students answer your questions, live (and [on YouTube](https://www.youtube.com/channel/UChjPbPsBwexriAwcnHdJTGw))!
+   3. [Online information sessions]({{ site.baseurl }}/Category/5_info-session.md) -- Professors and Ph.D. students answer your questions, live (and [on YouTube](https://www.youtube.com/channel/UChjPbPsBwexriAwcnHdJTGw))!
 4. [A Blog](_blog.html) with announcement and articles of interest.
 <!--2. [A YouTube Channel](https://www.youtube.com/channel/UChjPbPsBwexriAwcnHdJTGw) with interviews with current Ph.D. students, professors, and Ph.D.-holding computer scientists working industry.-->
 5. [Other Resources]({{ site.baseurl }}/Category/7_resource.md) -- There are many other good resoures about CS Ph.D.s.  We link to them throughout the site.

@@ -2,7 +2,7 @@
 title: Spring 2021 Ph.D. Information Sessions
 author: Steven Swanson
 category: info-session
-tags: ['info-session']
+tags: ['announcement']
 redirect_from:  /upcoming-sessions
 ---
 
@@ -18,7 +18,9 @@ getting a Ph.D.
 |                          | Should I get a Ph.D.?      |
 
 You don't need to choose a track, you'll be able to freely switch back and
-forth.  (If neither of those times works for you, hear about future sessions by filling out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfMXhSw7KbjTufo4CUdHsyyfaDvm4_8Hm2GlrtL0sdv0xgiVg/viewform))
+forth.
+
+If neither of those times works for you or you'd like to be notified when the video of these sessions are available, fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfMXhSw7KbjTufo4CUdHsyyfaDvm4_8Hm2GlrtL0sdv0xgiVg/viewform).
 
 You can register [here](https://www.eventbrite.com/e/computer-science-phd-info-session-registration-147339310845).  It's free!
 
