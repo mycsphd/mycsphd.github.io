@@ -54,9 +54,9 @@ school is for your interests, personality, and life priorities and how well you
 
 Rankings are useful in two ways during the application process.
 
-First, you can use them to choose where to apply.  Use both sites to generate
+First, you can use them to choose where to apply.  CSrankings.org makes it easy to generate
 an ordered list of schools based on overall ranking and ranking in your area of
-interest.  Merge those lists together and use the result as a starting point
+interest.  Use those as a starting point
 from which to filter schools further.
 
 Second, if you have multiple offers of admission, you can use their relative
@@ -82,7 +82,10 @@ There have been great many critiques of US News rankings:
 * The [Computing Research Association](https://cra.org/) (a leading organization promoting CS Research) provided this [withering dismissable](https://cra.org/cra-statement-us-news-world-report-rankings-computer-science-universities/) of the rankings as "nonsense".
 * [Many](https://blog.regehr.org/archives/1558) [others](http://www.theexclusive.org/2017/11/cs-rankings.html) have written about a range of problems with them.
 
-To this expansive body of criticsim I'll just add that CSRanking.org web site provides a more useful interface for identifying top schools in your area of interest.
+To this expansive body of criticsim I'll add two things:
+
+1.  CSRankings.org provides, in my opinion, a more useful interface than US News for identifying top schools in your area of interest.
+2.  CSRankings.org and US News are 80-90% correlated (based on [this data](https://drafty.cs.brown.edu/csopenrankings/)).  Since you should only be using these rankings as a rough guide, it doesn't make that much difference which you use.
 
 # More Ranking Sites
 
