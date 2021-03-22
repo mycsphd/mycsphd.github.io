@@ -2,7 +2,6 @@
 layout: category
 title: About
 category: about
-
 ---
 
 ## Why this site?
@@ -13,7 +12,7 @@ We created the site because we find that
     disciplines (e.g., computer science vs. biology vs. history), so
     information specifically about CS is necessary to make a good decision.
 
-2.  High-quality information about getting a Ph.D. in computer science was
+2.  High-quality information about getting a Ph.D. in computer science can be 
     difficult to find, often incorrect, or specific to particular
     Ph.D. programs.
 	
@@ -21,7 +20,7 @@ We created the site because we find that
     harbor basic misunderstandings about getting a Ph.D. including how to pay
     for it and what research (the focus of a Ph.D.) entails.
 
-4.  Undergraduates do not have access to advisors that can provide accurate,
+4.  Undergraduates often do not have access to advisors that can provide accurate,
     first-hand information about getting a Ph.D. in computer science.
 	
 5.  We suspect that this lack of ready access to good information is a barrier
@@ -41,10 +40,10 @@ Diego](http://ucsd.edu).  Send questions to
 
 [![UCSD CSE](/assets/img/ucsdcse_logo.png)](http://cs.ucsd.edu)
 
-<!-- If no need to specify the image size, use markdown is easier. -->
-<!-- ![placeholder](/assets/img/UCSDLogo_JSOE-ComputerSciEng_BlueGold.png "Large example image") -->
+The My CS Ph.D. Team:
 
-Collaborators and Contributors:
-
-* Dr. Steven Swanson, faculty instigator
-
+* Dr. Steven Swanson (Professor, UCSD)
+* Sachiko Matsumoto (Ph.D. Student, UCSD)
+* Dr. Leo Porter (Professor, UCSD)
+* Akshat Singhal (Ph.D. Student, UCSD)
+* Henry Zhang (Ph.D. Student, UCSD)
