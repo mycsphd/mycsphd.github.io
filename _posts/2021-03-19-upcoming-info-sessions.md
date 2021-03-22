@@ -8,7 +8,7 @@ redirect_from:  /upcoming-sessions
 
 We have two live information sessions coming up in April.  They will be held on
 Zoom.  Each will have two parallel "tracks" focused on different aspects
-getting a Ph.D.
+getting a Ph.D.  The tracks will run in parallel.
 
 | Date/Time                | Topics                     |
 |--------------------------|----------------------------|
