@@ -5,13 +5,13 @@ layout: post
 author: Steven Swanson
 ---
 
-NO! You *do not* need to get a masters degree before enrolling in a Ph.D. program. In fact, if you know you want a Ph.D., it is a bad idea to enroll in a masters program first. Let’s consider the pros and cons.
+NO! You *do not* need to get a masters degree before enrolling in a Ph.D. program, and the majory of new Ph.D. students do not have one.  In fact, if you know you want a Ph.D., it is a bad idea to enroll in a masters program first. Let’s consider the pros and cons.
 
 (There’s a  [video version](https://youtu.be/BWJKhhgPcf4?t=325)  of this answer.)
 
 ## Having an MS provides few advantages
 
-Except in one case (see below), having a masters degree does not give you a significant advantage during the application process. Ph.D. programs regularly admit many students who have just completed their undergraduate degree.  For instance, in recent yoars, the admit rate for UCSD's Ph.D. program is around 7% for students with an masters and around 13% for students coming directly from undergrad.
+Except in one case (see below), having a masters degree does not give you a significant advantage during the application process. Ph.D. programs regularly admit many students who have just completed their undergraduate degree.  For instance, in a recent year, the admit rate for UCSD's Ph.D. program is around 7% for students with an masters and around 13% for students with an undergrad degree.  And 60% of admitted students had only an undergrad agree.
 
 The only practical difference that having an MS will have as you start a Ph.D. program is that you can focus more intently on research more quickly, since you won't have as many distracting classes to take.  In the end, you'll end up taking roughly the same number of classes either way (or perhaps more if you get your MS first -- see below).
 
