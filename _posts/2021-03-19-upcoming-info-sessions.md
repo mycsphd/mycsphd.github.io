@@ -8,7 +8,7 @@ redirect_from:  /upcoming-sessions
 
 We have two live information sessions coming up in April.  They will be held on
 Zoom.  Each will have two parallel "tracks" focused on different aspects
-getting a Ph.D.
+getting a Ph.D.  The tracks will run in parallel.
 
 | Date/Time                | Topics                     |
 |--------------------------|----------------------------|
@@ -22,9 +22,9 @@ forth.
 
 If neither of those times works for you or you'd like to be notified when the video of these sessions are available, fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfMXhSw7KbjTufo4CUdHsyyfaDvm4_8Hm2GlrtL0sdv0xgiVg/viewform).
 
-You can register [here](https://www.eventbrite.com/e/computer-science-phd-info-session-registration-147339310845).  It's free!
+## [Register Here!](https://www.eventbrite.com/e/computer-science-phd-info-session-registration-147339310845)  It's free!
 
-Before attending, it please checkout the [FAQ]({{ site.baseurl }}/2_wiki.html).
+Before attending, checkout the [FAQ]({{ site.baseurl }}/2_wiki.html).
 
 {% assign t = site.data._2021_sp_panelist_metadata | sort:"last" %}
 
@@ -63,6 +63,7 @@ Before attending, it please checkout the [FAQ]({{ site.baseurl }}/2_wiki.html).
 </table>
 
 
+
 # Panelists
 
 ## Students
@@ -98,8 +99,6 @@ Before attending, it please checkout the [FAQ]({{ site.baseurl }}/2_wiki.html).
 {% endif %}
 {% endfor %}
 </table>
-
-
 
 ## Faculty
 
