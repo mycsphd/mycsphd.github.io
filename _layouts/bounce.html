@@ -1,0 +1,18 @@
+---
+#
+---
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: 'en-us'}}">
+
+   {% include head.html %}
+
+  <script>
+    function onload() {
+	setTimeout(function () {window.location.replace('{{ page.bounce_to }}')}, 1000);
+    }
+  </script>    
+  
+   <body onload="onload()" class="{{ page.layout }}">
+     <h1 style="margin: 1em; color: white">Just a moment...</h1>
+   </body>
+</html>
