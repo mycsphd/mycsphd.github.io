@@ -63,6 +63,7 @@ Before attending, checkout the [FAQ]({{ site.baseurl }}/2_wiki.html).
 </table>
 
 
+
 # Panelists
 
 ## Students
@@ -98,8 +99,6 @@ Before attending, checkout the [FAQ]({{ site.baseurl }}/2_wiki.html).
 {% endif %}
 {% endfor %}
 </table>
-
-
 
 ## Faculty
 
