@@ -2,6 +2,7 @@
 layout: category
 title: Info Sessions
 category: info-session
+redirect_from: /info-sessions
 ---
 
 We host regular online information sessions about getting a Ph.D. in CS.  Links to information about them and recordings are below.
