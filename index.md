@@ -10,11 +10,11 @@ title: Home
 This site collects and provides information about the why and how of getting a Ph.D. in
 computer science and closely related disciplines.
 
-It was created by professors who advise Ph.D. students and curent
-Ph.D. students.  The information should be useful to anyone compemplating a
-pursuing a Ph.D. at a university in the United States or Canada.  It is a free
-service of the Computer Science Department at the University of California in
-San Diego, and it does not promote any particular school.
+It was created by professors who advise Ph.D. students and current
+Ph.D. students.  The information should be useful to anyone contemplating a Ph.D. at a 
+university in the United States or Canada.  It is a free
+service of the [Computer Science Department](http://cse.ucsd.edu) at the [University of California in
+San Diego](http://ucsd.edu), and it does not promote any particular school.
 
 Our hope is that this information will be useful in deciding whether a Ph.D. is
 right for you and in guiding you through the application process.
