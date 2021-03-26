@@ -7,7 +7,7 @@ title: Home
 
 <img src="/assets/img/logo.png" style="margin: 5pt; float: right; width:35%;"/>
 
-This site collects information about the why and how of getting a Ph.D. in
+This site collects and provides information about the why and how of getting a Ph.D. in
 computer science and closely related disciplines.
 
 It was created by professors who advise Ph.D. students and curent
