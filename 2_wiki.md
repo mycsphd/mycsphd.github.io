@@ -4,6 +4,7 @@ title: Common Questions
 #The My CS Ph.D. Guide
 sidebar_link: true
 sidebar_sort_order: 100
+redirect_from: /faq
 ---
 
 
