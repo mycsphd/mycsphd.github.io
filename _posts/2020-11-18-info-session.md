@@ -7,25 +7,25 @@ category: info-session
 
 We held our first CS Ph.D. information session last Wednesday for 285 registered attendees. Below, you can find links to questions we answered on YouTube and written answers to the questions we didn’t get to.
 
+Links to Video
+--------------
+
 ![The panel of professors and graduate students]({{ site.url}}/assets/img/Panel-photo-fixed-1024x445.png)
-
-|**Question**|**Direct Link**|
-|What are some of the qualities of an ideal candidate for a PhD? Conversely, what might raise a red flag in a candidate’s application?|[https://youtu.be/thZdtIQ3i_g?t=934](https://youtu.be/thZdtIQ3i_g?t=934)|
-|How do you find a topic and an advisor?|[https://youtu.be/thZdtIQ3i_g?t=1392](https://youtu.be/thZdtIQ3i_g?t=1392)|
-|What matters most in the application? Undergrad grades, graduate (MS) grades, GMAT/GRE, recommendations or research experience?|[https://youtu.be/thZdtIQ3i_g?t=1123](https://youtu.be/thZdtIQ3i_g?t=1123)|
-|How does work experience as software engineer factor in? Or does that only count if you’re part of a published research project?|[https://youtu.be/thZdtIQ3i_g?t=1696](https://youtu.be/thZdtIQ3i_g?t=1696)|
-|What job opportunities in industry does a PhD or Master’s in CS open and close compared to a Bachelor’s?|[https://youtu.be/thZdtIQ3i_g?t=2752](https://youtu.be/thZdtIQ3i_g?t=2752)|
-|Is there a time of life that is best to pursue a PhD? Is there an average age for a first year PhD candidate?|[https://youtu.be/thZdtIQ3i_g?t=2954](https://youtu.be/thZdtIQ3i_g?t=2954)|
-|What kind of job can I get with a Ph.D. and what’s the job market like?|[https://youtu.be/thZdtIQ3i_g?t=1827](https://youtu.be/thZdtIQ3i_g?t=1827)|
-|Can you do a Ph.D. program part time?|[https://youtu.be/thZdtIQ3i_g?t=2495](https://youtu.be/thZdtIQ3i_g?t=2495)|
-|Can I have good work life balance as a Ph.D. student?|[https://youtu.be/thZdtIQ3i_g?t=1965](https://youtu.be/thZdtIQ3i_g?t=1965)|
-|How important is it to reach out to potential advisors before applying? Can they vouch for you in the application process later on?|[https://youtu.be/thZdtIQ3i_g?t=3163](https://youtu.be/thZdtIQ3i_g?t=3163)|
-|Should I still apply if I don’t have any research experience?|[https://youtu.be/thZdtIQ3i_g?t=2250](https://youtu.be/thZdtIQ3i_g?t=2250)|
-|How do you pay for a Ph.D. and how much does it cost?|[https://youtu.be/thZdtIQ3i_g?t=778](https://youtu.be/thZdtIQ3i_g?t=778)|
-|What’s the weight of different parts of the application (test scores, grades, letters, SOP, undergraduate research)?|[https://youtu.be/thZdtIQ3i_g?t=934](https://youtu.be/thZdtIQ3i_g?t=934)|
-|Do I need to get as master’s degree before getting a Ph.D.?|[https://youtu.be/thZdtIQ3i_g?t=778](https://youtu.be/thZdtIQ3i_g?t=778)|
-
-
+ * [0:00](https://www.youtube.com/watch?v=thZdtIQ3i_g&t=0s)  Introductions
+ * [13:17](https://www.youtube.com/watch?v=thZdtIQ3i_g&t=797s) Do I need to get as master’s degree before getting a Ph.D.? 
+ * [14:19](https://www.youtube.com/watch?v=thZdtIQ3i_g&t=859s) How do you pay for a Ph.D. and how much does it cost?
+ * [15:34](https://www.youtube.com/watch?v=thZdtIQ3i_g&t=934s) What’s the weight of different parts of the application (test scores, grades, letters, SOP, undergraduate research)?
+ * [18:43](https://www.youtube.com/watch?v=thZdtIQ3i_g&t=1123s) What matters most in the application? Undergrad grades, graduate (MS) grades, GMAT/GRE, recommendations or research experience? 
+ * [23:12](https://www.youtube.com/watch?v=thZdtIQ3i_g&t=1392s) How do you find a topic and an advisor? 
+ * [28:16](https://www.youtube.com/watch?v=thZdtIQ3i_g&t=1696s) How does work experience as software engineer factor in? Or does that only count if you’re part of a published research project? 
+ * [30:27](https://www.youtube.com/watch?v=thZdtIQ3i_g&t=1827s) What kind of job can I get with a Ph.D. and what’s the job market like? 
+ * [32:45](https://www.youtube.com/watch?v=thZdtIQ3i_g&t=1965s) Can I have good work life balance as a Ph.D. student? 
+ * [37:30](https://www.youtube.com/watch?v=thZdtIQ3i_g&t=2250s) Should I still apply if I don’t have any research experience? 
+ * [41:35](https://www.youtube.com/watch?v=thZdtIQ3i_g&t=2495s) Can you do a Ph.D. program part time? 
+ * [45:52](https://www.youtube.com/watch?v=thZdtIQ3i_g&t=2752s) What job opportunities in industry does a PhD or Master’s in CS open and close compared to a Bachelor’s? 
+ * [49:14](https://www.youtube.com/watch?v=thZdtIQ3i_g&t=2954s) Is there a time of life that is best to pursue a PhD? Is there an average age for a first year PhD candidate? 
+ * [52:43](https://www.youtube.com/watch?v=thZdtIQ3i_g&t=3163s) ​ How important is it to reach out to potential advisors before applying? Can they vouch for you in the application process later on? 
+ 
 # More Questions and Answers
 
 ## How do you get research experience late in your undergrad?
