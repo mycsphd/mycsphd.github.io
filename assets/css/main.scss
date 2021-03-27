@@ -17,7 +17,6 @@ html {
   }
 }
 
-
 .bottom-logo {
     margin: auto; width:25%;
 }
@@ -30,5 +29,45 @@ html {
 .copyright-box {
     text-align: center;
     margin-bottom: 1em;
+}
+
+
+.search-row {
+    border: 0px solid $border-color;
+    border-radius: 4px;
+    display: flex;
+    padding: 2px;
+
+    input {
+	border: 0;
+    }
+    
+    input + input { margin-left: 2px;
+		    border-radius: 4px;
+		    font-size: 1.25rem;
+		    padding: 3px;
+		  }
+    
+    input[type='text'],
+    input[type='search'] {
+	flex-grow: 1;
+	border-radius: 4px;
+	padding: 9px;
+	border-top-right-radius: 0;
+	border-bottom-right-radius: 0;
+	color: darken($sidebar-bg-color, 7%);
+     }
+    
+    input[type='submit'] {
+	padding-left: 0.4em;
+	padding-right: 0.4em;
+	background: white;
+	color: darken($sidebar-bg-color, 7%);
+	border-top-left-radius: 0;
+	border-bottom-left-radius: 0;
+	font-size: .8rem;
+	margin: 0;
+	border-left:darken($sidebar-bg-color, 7%) 1px solid;
+    }	
 }
 
