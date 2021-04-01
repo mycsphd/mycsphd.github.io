@@ -8,7 +8,7 @@ It is never too late to decide to get a Ph.D. in CS, and there is still time to 
 
 ## Identifying Your Goals
 
-Your goal is to be admitted to a CS Ph.D. program, so a good first step is to read about how the [Ph.D. Admissions process works]() and [What parts of the application matter most.]()
+Your goal is to be admitted to a CS Ph.D. program, so a good first step is to read about how the [Ph.D. Admissions process works]({{site.baseurl}}{% link _pages/phd-admissions.md %}) and [What parts of the application matter most.]({{site.baseurl}}{% link _pages/application-parts.md %})
 
 The professors evaluating your application will be looking for evidence of:
 
@@ -113,11 +113,11 @@ You can jump into the "Long Game" plan I outlined above at any point.  However, 
 
 So, you decided you want a Ph.D. and your a senior (or maybe you've already graduated)?  You have couple of options.
 
-The first is that you should apply.  Pick a [range of schools](), and pull together the best application that you can manage.  You definitely might get in, so give it a shot.
+The first is that you should apply.  Pick a [range of schools]({{site.baseurl}}{% link _pages/where-to-apply.md %}), and pull together the best application that you can manage.  You definitely might get in, so give it a shot.
 
 You should also hedge your bets.  This could take a few forms:
 
-First, you can apply to masters programs in addition to Ph.D. programs.  Getting a masters degree first [is not necessary]() but it is a good way to get research experience and strengthen your application.  As you decide where to apply and attend, look for places that have a thesis option or otherwise encourage/require a research component.  Not all master's programs require research, but getting research experience should be your primary goal.
+First, you can apply to masters programs in addition to Ph.D. programs.  Getting a masters degree first [is not necessary]({{site.baseurl}}{% link _post/2021-03-10-do-i-need-an-ms-first.md %}) but it is a good way to get research experience and strengthen your application.  As you decide where to apply and attend, look for places that have a thesis option or otherwise encourage/require a research component.  Not all master's programs require research, but getting research experience should be your primary goal.
 
 Second, you can work.   Industry experience also looks good on Ph.D. applications.  You should aim for positions that would demonstrate research aptitude.
 
