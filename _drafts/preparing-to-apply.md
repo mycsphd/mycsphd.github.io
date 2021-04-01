@@ -8,7 +8,7 @@ It is never too late to decide to get a Ph.D. in CS, and there is still time to 
 
 ## Identifying Your Goals
 
-Your goal is to be admitted to a CS Ph.D. program, so a good first step is to read about how the [Ph.D. Admissions process works]() and [What parts of the application matter most.]()
+Your goal is to be admitted to a CS Ph.D. program, so a good first step is to read about how the [Ph.D. Admissions process works]({{site.baseurl}}{% link _pages/phd-admissions.md %}) and [What parts of the application matter most.]({{site.baseurl}}{% link _pages/application-parts.md %})
 
 The professors evaluating your application will be looking for evidence of:
 
@@ -21,9 +21,7 @@ You will develop your aptitude for "research" by seeking out challenging compute
 
 ### Your Chances are Better Than You Think
 
-You do not need to be a stellar student or research prodigy to get into a Ph.D. program.  In preparing this article I found many blog posts and Quora questions that focus (often implicitly or without knowing) on what is necessary to get into the very top CS Ph.D. programs.
-
-From those posts, you might conclude that multiple research publications, excellent grades, flawless GRE scores, and ecstatic letters of recommendation are necessary to get into graduate school.
+You do not need to be a stellar student or research prodigy to get into a Ph.D. program.  From googling around, you might conclude that multiple research publications, excellent grades, flawless GRE scores, and ecstatic letters of recommendation are necessary to get into graduate school.
 
 However, those top 5-10 schools are not the only places to get a Ph.D.  There are many, excellent programs that accept students with strong-but-not-phenomenal applications.  Indeed, many new Ph.D. students have not had formal research experience, have imperfect grades, lackluster GREs, or went to less-well-known schools.
 
@@ -63,7 +61,9 @@ At smaller schools (e.g., my alma mater) with smaller classes, it is easier to d
 
 ## The Long Game
 
-If you know from early in college (say sophomor year) that you want to get a Ph.D., you will have plenty of time to prepare.  An ideal timeline might look like this:
+If you know from early in college (say sophomor year) that you want to get a Ph.D., you will have plenty of time to prepare.  Below, is a do-everything-possible-to-maximize-my-chances time line for preparing for a Ph.D. 
+
+You do not need to do all of this, but keep your eyes on the main goal:  Demonstrating research aptitude and having someone who can vouch for it.
 
 1. Sophomore year 
     1. Take challenging courses that appeal to you.  Get good grades.
@@ -113,11 +113,11 @@ You can jump into the "Long Game" plan I outlined above at any point.  However, 
 
 So, you decided you want a Ph.D. and your a senior (or maybe you've already graduated)?  You have couple of options.
 
-The first is that you should apply.  Pick a [range of schools](), and pull together the best application that you can manage.  You definitely might get in, so give it a shot.
+The first is that you should apply.  Pick a [range of schools]({{site.baseurl}}{% link _pages/where-to-apply.md %}), and pull together the best application that you can manage.  You definitely might get in, so give it a shot.
 
 You should also hedge your bets.  This could take a few forms:
 
-First, you can apply to masters programs in addition to Ph.D. programs.  Getting a masters degree first [is not necessary]() but it is a good way to get research experience and strengthen your application.  As you decide where to apply and attend, look for places that have a thesis option or otherwise encourage/require a research component.  Not all master's programs require research, but getting research experience should be your primary goal.
+First, you can apply to masters programs in addition to Ph.D. programs.  Getting a masters degree first [is not necessary]({{site.baseurl}}{% link _post/2021-03-10-do-i-need-an-ms-first.md %}) but it is a good way to get research experience and strengthen your application.  As you decide where to apply and attend, look for places that have a thesis option or otherwise encourage/require a research component.  Not all master's programs require research, but getting research experience should be your primary goal.
 
 Second, you can work.   Industry experience also looks good on Ph.D. applications.  You should aim for positions that would demonstrate research aptitude.
 
