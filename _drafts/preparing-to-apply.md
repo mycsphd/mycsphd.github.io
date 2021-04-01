@@ -21,9 +21,7 @@ You will develop your aptitude for "research" by seeking out challenging compute
 
 ### Your Chances are Better Than You Think
 
-You do not need to be a stellar student or research prodigy to get into a Ph.D. program.  In preparing this article I found many blog posts and Quora questions that focus (often implicitly or without knowing) on what is necessary to get into the very top CS Ph.D. programs.
-
-From those posts, you might conclude that multiple research publications, excellent grades, flawless GRE scores, and ecstatic letters of recommendation are necessary to get into graduate school.
+You do not need to be a stellar student or research prodigy to get into a Ph.D. program.  From googling around, you might conclude that multiple research publications, excellent grades, flawless GRE scores, and ecstatic letters of recommendation are necessary to get into graduate school.
 
 However, those top 5-10 schools are not the only places to get a Ph.D.  There are many, excellent programs that accept students with strong-but-not-phenomenal applications.  Indeed, many new Ph.D. students have not had formal research experience, have imperfect grades, lackluster GREs, or went to less-well-known schools.
 
@@ -63,7 +61,9 @@ At smaller schools (e.g., my alma mater) with smaller classes, it is easier to d
 
 ## The Long Game
 
-If you know from early in college (say sophomor year) that you want to get a Ph.D., you will have plenty of time to prepare.  An ideal timeline might look like this:
+If you know from early in college (say sophomor year) that you want to get a Ph.D., you will have plenty of time to prepare.  Below, is a do-everything-possible-to-maximize-my-chances time line for preparing for a Ph.D. 
+
+You do not need to do all of this, but keep your eyes on the main goal:  Demonstrating research aptitude and having someone who can vouch for it.
 
 1. Sophomore year 
     1. Take challenging courses that appeal to you.  Get good grades.
