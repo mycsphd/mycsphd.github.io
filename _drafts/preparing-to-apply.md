@@ -59,6 +59,15 @@ All of these take time and effort, and there are no short cuts.
 
 At smaller schools (e.g., my alma mater) with smaller classes, it is easier to develop the necessary relationships with faculty, since it is hard to "hide" in a small class.  However, at larger schools with larger class sizes, this will take a concerted effort.
 
+## Courses Grades GREs and Other things
+
+Research experience and letters are the most important things in your application, but your coursework grades and GRE scores play a role as well.
+
+### Course Work
+
+Professors (some more than others) pay attention to overall grades and what classes you took, so it's important to pursue a rigorous course of study and to do well in your classes.
+
+
 ## The Long Game
 
 If you know from early in college (say sophomor year) that you want to get a Ph.D., you will have plenty of time to prepare.  Below, is a do-everything-possible-to-maximize-my-chances time line for preparing for a Ph.D. 
@@ -125,9 +134,7 @@ Happily, both of these options will advance your career regardless of whether yo
 
 ## References
 
-1. Timeline at the bottom of https://www.cs.princeton.edu/academics/ugradpgm/gsg#Timeline
-2. http://www.hunter.cuny.edu/csci/for-students/planning-for-computer-science-graduate-school
-3. https://www.cs.hmc.edu/gradschool.pdf
+1. There's a nice timeline at the bottom of [this page at Princeton.](https://www.cs.princeton.edu/academics/ugradpgm/gsg#Timeline)  The rest of page is good too.
 4. https://www.cs.washington.edu/academics/ugrad/current-students/career/grad-school
 
 
