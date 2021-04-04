@@ -1,7 +1,7 @@
 ---
+title: How should I prepare for applying to Ph.D. programs?
 author: Steven Swanson
 layout: article
-title: How should I prepare for applying to Ph.D. programs?
 ---
 
 It is never too late to decide to get a Ph.D. in CS, and there is still time to strengthen your application and improve your chances of being admitted a strong Ph.D. program.  Regardless of how much time you have, the goals are the same.
@@ -117,7 +117,7 @@ The first is that you should apply.  Pick a [range of schools]({{site.baseurl}}{
 
 You should also hedge your bets.  This could take a few forms:
 
-First, you can apply to masters programs in addition to Ph.D. programs.  Getting a masters degree first [is not necessary]({{site.baseurl}}{% link _post/2021-03-10-do-i-need-an-ms-first.md %}) but it is a good way to get research experience and strengthen your application.  As you decide where to apply and attend, look for places that have a thesis option or otherwise encourage/require a research component.  Not all master's programs require research, but getting research experience should be your primary goal.
+First, you can apply to masters programs in addition to Ph.D. programs.  Getting a masters degree first [is not necessary]({{site.baseurl}}{% link _posts/2021-03-10-do-i-need-an-ms-first.md %}) but it is a good way to get research experience and strengthen your application.  As you decide where to apply and attend, look for places that have a thesis option or otherwise encourage/require a research component.  Not all master's programs require research, but getting research experience should be your primary goal.
 
 Second, you can work.   Industry experience also looks good on Ph.D. applications.  You should aim for positions that would demonstrate research aptitude.
 
