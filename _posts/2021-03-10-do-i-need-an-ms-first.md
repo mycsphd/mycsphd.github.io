@@ -5,7 +5,7 @@ layout: post
 author: Steven Swanson
 ---
 
-NO! You *do not* need to get a masters degree before enrolling in a Ph.D. program, and the majory of new Ph.D. students do not have one.  In fact, if you know you want a Ph.D., it is a bad idea to enroll in a masters program first. Let’s consider the pros and cons.
+NO! You *do not* need to get a masters degree before enrolling in a Ph.D. program, and the majority of new Ph.D. students do not have one.  In fact, if you know you want a Ph.D., it is a bad idea to enroll in a masters program first. Let’s consider the pros and cons.
 
 (There’s a  [video version](https://youtu.be/BWJKhhgPcf4?t=325)  of this answer.)
 
