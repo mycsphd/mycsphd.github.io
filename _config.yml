@@ -7,6 +7,8 @@ github_username:  mycsphd
 hydeout:
   repo:           https://github.com/mycsphd/mycsphd.github.io
 
+twitter_url: https://twitter.com/csphdinfo
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
