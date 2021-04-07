@@ -40,10 +40,14 @@ Diego](http://ucsd.edu).  Send questions to
 
 [![UCSD CSE](/assets/img/ucsdcse_logo.png)](http://cs.ucsd.edu)
 
-The My CS Ph.D. Team:
+## The My CS Ph.D. Team
 
 * Dr. Steven Swanson (Professor, UCSD)
+* Nara Batsoyol (Ph.D. Student, UCSD)
 * Sachiko Matsumoto (Ph.D. Student, UCSD)
+* Dr. Mia Minnes (Professor, UCSD)
 * Dr. Leo Porter (Professor, UCSD)
 * Akshat Singhal (Ph.D. Student, UCSD)
+* Dr. Dean Tullsen (Professor, UCSD) 
+* Olivia Weng (Ph.D. Student, UCSD)
 * Henry Zhang (Ph.D. Student, UCSD)
