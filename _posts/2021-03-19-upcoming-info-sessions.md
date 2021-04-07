@@ -1,5 +1,5 @@
 ---
-title: Spring 2021 Ph.D. Information Sessions
+title: Spring 2021 Ph.D. Information Sessions (April 13th and 21st)
 author: Steven Swanson
 category: info-session
 tags: ['announcement']
