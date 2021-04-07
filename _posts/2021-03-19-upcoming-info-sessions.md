@@ -28,7 +28,7 @@ Before attending, checkout the [FAQ]({{ site.baseurl }}/2_wiki.html).
 
 {% assign t = site.data._2021_sp_panelist_metadata | sort:"last" %}
 
-# Organizers
+# Hosts and Organizers
 
 <table>
 <colgroup>
