@@ -36,9 +36,7 @@ might or might not what to get a Ph.D.
 The My CS Ph.D. is was started in the [Deparment of Computer Science and
 Engineering](http://cs.ucsd.edu) at the [University of California, San
 Diego](http://ucsd.edu).  Send questions to
-[mailto:swanson+phd-info@eng.ucsd.edu](swanson@cs.ucsd.edu).
-
-[![UCSD CSE](/assets/img/ucsdcse_logo.png)](http://cs.ucsd.edu)
+[swanson@cs.ucsd.edu](mailto:swanson+phd-info@eng.ucsd.edu).
 
 ## The My CS Ph.D. Team
 
@@ -51,3 +49,5 @@ Diego](http://ucsd.edu).  Send questions to
 * Dr. Dean Tullsen (Professor, UCSD) 
 * Olivia Weng (Ph.D. Student, UCSD)
 * Henry Zhang (Ph.D. Student, UCSD)
+
+[![UCSD CSE](/assets/img/ucsdcse_logo.png)](http://cs.ucsd.edu)
