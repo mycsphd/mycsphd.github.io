@@ -1,5 +1,5 @@
 ---
-title: Spring 2021 Ph.D. Information Sessions
+title: Spring 2021 Ph.D. Information Sessions (April 13th and 21st)
 author: Steven Swanson
 category: info-session
 tags: ['announcement']
@@ -28,7 +28,7 @@ Before attending, checkout the [FAQ]({{ site.baseurl }}/2_wiki.html).
 
 {% assign t = site.data._2021_sp_panelist_metadata | sort:"last" %}
 
-# Organizers
+# Hosts and Organizers
 
 <table>
 <colgroup>
