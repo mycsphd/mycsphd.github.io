@@ -11,11 +11,11 @@ NO! You *do not* need to get a masters degree before enrolling in a Ph.D. progra
 
 ## Having an MS provides few advantages
 
-Except in one case (see below), having a masters degree does not give you a significant advantage during the application process. Ph.D. programs regularly admit many students who have just completed their undergraduate degree.  For instance, in a recent year, the admit rate for UCSD's Ph.D. program is around 7% for students with an masters and around 13% for students with an undergrad degree.  And 60% of admitted students had only an undergrad degree.
+Except in one case (see below), having a masters degree does not give you a significant advantage during the application process. Ph.D. programs regularly admit many students who have just completed their undergraduate degree.  For instance, in a recent year, the admit rate for UCSD's Ph.D. program is around 7% for students with a masters and around 13% for students with an undergrad degree.  And 60% of admitted students had only an undergrad degree.
 
 The main practical impact having an MS will have as you start a Ph.D. program is that you can focus more intently on research more quickly, since you won't have as many distracting classes to take.  However, since you spent two years getting your masters, you'll end up taking roughly the same number of classes either way (or perhaps more if you get your MS first -- see below).
 
-In the end, you’ll wind up with an MS degree in addition to your Ph.D., anyway:  Usually, when you finish the course work for your Ph.D. you incidentally satisfy the requirements for a masters at the same time.  This also provide a convienient "off ramp" from a Ph.D., if you decide it's not for you -- you can just take your master's degree, leave, and get a great job.
+In the end, you’ll wind up with an MS degree in addition to your Ph.D., anyway:  Usually, when you finish the course work for your Ph.D. you incidentally satisfy the requirements for a masters at the same time.  This also provide a convenient "off ramp" from a Ph.D., if you decide it's not for you -- you can just take your master's degree, leave, and get a great job.
 
 ## Getting an MS first is usually a bad idea, if you know you want a Ph.D.
 
