@@ -7,9 +7,18 @@ redirect_from:  /attend-info-session
 
 Here's everything you need to attend the information session.
 
-* You can move between the two zoom meetings as much as you like.
-* The sli.do links will let you submit and/or upvote questions.
 * The sli.do has two "rooms" -- one for each topic on a given day.  You can switch back and forth to see what's coming up.
+* There are separate zoom links for each topic.
+* The sli.do links will let you submit and/or upvote questions.
+* You can move between the two zoom meetings as much as you like.
+
+#### Selecting a Sli.do room
+
+![selecting an sli.do room](/assets/img/slido-select-room.png)
+
+#### Switching between Sli.do rooms
+
+![switching between sli.do rooms](/assets/img/slido-switch-rooms.png)
 
 ## You can [register here](https://www.eventbrite.com/e/computer-science-phd-info-session-registration-147339310845).  It's free!
 
