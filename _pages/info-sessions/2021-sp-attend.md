@@ -25,8 +25,8 @@ Here's everything you need to attend the information session.
 
 | Date/Time                | Sli.do                                    | Zoom meetings              |
 |--------------------------|-------------------------------------------|----------------------------|
-| April 13, 12:30-1:30 PDT | [link](https://app.sli.do/event/pa7fpp5w) | Ph.D. Student Life         |
-|                          |                                           | What is Research?          |
+| April 13, 12:30-1:30 PDT | [link](https://app.sli.do/event/pa7fpp5w) | [Ph.D. Student Life](https://ucsd.zoom.us/j/96060317375)         |
+|                          |                                           | [What is Research?](https://ucsd.zoom.us/j/95359302666)          |
 | April 21, 12:00-1:00 PDT | [link](https://app.sli.do/event/gignj6m4) | Applying to Ph.D. Programs |
 |                          |                                           | Should I get a Ph.D.?      |
 
