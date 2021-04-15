@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: Common Questions
 #The My CS Ph.D. Guide
 sidebar_link: true
