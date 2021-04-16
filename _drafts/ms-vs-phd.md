@@ -180,7 +180,7 @@ degree themselves.
 
 You should choose the one that is best aligned with your goals and interests.  If you meet the criteria I outlined above for getting a Ph.D., a Ph.D. is probably a good option.  If you don't meet them, get a masters degree (or a job).
 
-If you think you might want a Ph.D. but aren't sure and you're worried about the committment, apply to Ph.D. programs and then, if you want, leave with a masters degree after two years.  You'll have a masters degree and been in the same place career-wise as if you'd just gotten the MS.
+If you think you might want a Ph.D. but aren't sure (or you're  worried about the committment), there's an easy third option:   Apply to Ph.D. programs and then, if it's not for you, leave with a masters degree after two years.  You'll have a masters degree and been in the same place career-wise as if you'd just gotten the MS.
 
 ## Other Perspectives
 
