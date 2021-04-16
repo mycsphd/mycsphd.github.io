@@ -11,6 +11,7 @@ Links to Video
 --------------
 
 ![The panel of professors and graduate students]({{ site.url}}/assets/img/Panel-photo-fixed-1024x445.png)
+
  * [0:00](https://www.youtube.com/watch?v=thZdtIQ3i_g&t=0s)  Introductions
  * [13:17](https://www.youtube.com/watch?v=thZdtIQ3i_g&t=797s) Do I need to get as master’s degree before getting a Ph.D.? 
  * [14:19](https://www.youtube.com/watch?v=thZdtIQ3i_g&t=859s) How do you pay for a Ph.D. and how much does it cost?
@@ -26,6 +27,7 @@ Links to Video
  * [49:14](https://www.youtube.com/watch?v=thZdtIQ3i_g&t=2954s) Is there a time of life that is best to pursue a PhD? Is there an average age for a first year PhD candidate? 
  * [52:43](https://www.youtube.com/watch?v=thZdtIQ3i_g&t=3163s) ​ How important is it to reach out to potential advisors before applying? Can they vouch for you in the application process later on? 
  
+
 # More Questions and Answers
 
 ## How do you get research experience late in your undergrad?

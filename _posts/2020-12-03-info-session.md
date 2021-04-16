@@ -38,7 +38,8 @@ Checkout this answer: [https://youtu.be/thZdtIQ3i\_g?t=1827](https://youtu.be/th
 
 ### Steven Swanson — Professor
 
-There are answers to this here: [https://swanson.ucsd.edu/2020/12/01/cs-phd-2020-11-18/](https://swanson.ucsd.edu/2020/12/01/cs-phd-2020-11-18/)
+
+There are answers to this here: [link]({{ site.baseurl }}{% link _posts/2020-11-18-info-session.md %})
 
 ## Can I have good work life balance as a Ph.D. student?
 
@@ -108,7 +109,7 @@ I would emphasize your strengths rather than draw attention to your weaknesses. 
 
 ### Steven Swanson — Professor
 
-There are answers to this here: [https://swanson.ucsd.edu/2020/12/01/cs-phd-2020-11-18/](https://swanson.ucsd.edu/2020/12/01/cs-phd-2020-11-18/)
+There are answers to this here: [link]({{ site.baseurl }}{% link _posts/2020-11-18-info-session.md %}))
 
 ## Would I have a problem applying to a PhD program having completed a M.S. but not having taken the GRE?
 
@@ -120,7 +121,7 @@ GRE requirements are generally in flux and more so due to COVID. I would check w
 
 ### Steven Swanson — Professor
 
-There are answers to this here: [https://swanson.ucsd.edu/2020/12/01/cs-phd-2020-11-18/](https://swanson.ucsd.edu/2020/12/01/cs-phd-2020-11-18/)
+There are answers to this here: [link]({{ site.baseurl }}{% link _posts/2020-11-18-info-session.md %})
 
 ### Olivia Weng — Grad Student
 
@@ -130,7 +131,7 @@ Grad school is much more research-oriented. In undergrad, your main purpose is t
 
 ### Steven Swanson — Professor
 
-There are answers to this here: [https://swanson.ucsd.edu/2020/12/01/cs-phd-2020-11-18/](https://swanson.ucsd.edu/2020/12/01/cs-phd-2020-11-18/)
+There are answers to this here: [link]({{ site.baseurl }}{% link _posts/2020-11-18-info-session.md %})
 
 ## Do I have to reach out to professors before applying to the Universities for the PhD program?
 
@@ -142,7 +143,7 @@ Checkout this answer: [https://youtu.be/thZdtIQ3i\_g?t=3163](https://youtu.be/8b
 
 ### Steven Swanson — Professor
 
-There are answers to this here: [https://swanson.ucsd.edu/2020/12/01/cs-phd-2020-11-18/](https://swanson.ucsd.edu/2020/12/01/cs-phd-2020-11-18/)
+There are answers to this here: [link]({{ site.baseurl }}{% link _posts/2020-11-18-info-session.md %})
 
 ## What’s the most obvious difference between people who do have undergrad research experience versus people who don’t?
 
