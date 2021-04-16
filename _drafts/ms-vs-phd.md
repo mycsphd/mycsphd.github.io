@@ -5,15 +5,15 @@ layout: article
 ---
 
 A Ph.D. is about extend the boundary of human knowledge.  A master degrees is
-about gaining deeper knowledge in a particular area of CS.
+about more about the current state-of-the-art in a particular area of CS.
 
 ## What is a Ph.D.?
 
-A Ph.D. provides the skills and an opportunity to develope new knowledge about
+A Ph.D. provides the skills and an opportunity to develop new knowledge about
 computer science and communicate that knowledge to others.  As you complete a
 Ph.D., you will create something fundamentally new (or as researches say
-"novel") that the world has never seen before.  And you will share with the
-world what you learned in creating it by writing research papers and presenting
+"novel") that the world has never seen before.  And you will share what you've learned with the
+world by writing research papers and presenting
 your work to others.
 
 The process or creating new knowledge is called "research" and research is the
@@ -33,6 +33,8 @@ Ph.D. is hard and it takes a long time.  If you don't love computer science or d
 really want to get a Ph.D., it is unlikely you will succeed or be happy as you
 try.
 
+You don't need to be genius or an exceptional student to get a Ph.D.  Mostly, you need to want to get a Ph.D. and be willing to dedicated time to do so.
+
 You should not get a Ph.D. for the money: Starting salaries with a Ph.D. are
 [27% higher](https://bit.ly/2PSKHga) with a Ph.D. than [with a
 Masters](https://bit.ly/3ujG1yM), but you'll spend an additional 2-5 years in
@@ -40,7 +42,7 @@ school during earning quite a bit less than you would with an MS degree.
 
 ### What will I learn?
 
-Getting a Ph.D. will teach you how to extend humankind's understanding of
+Getting a Ph.D. in CS will teach you how to extend humankind's understanding of
 computing.  In addition, you will learn a wide range of technical,
 organizational, and communication skills.  This education goes far beyond a
 masters degree in both breadth and depth.
@@ -48,20 +50,22 @@ masters degree in both breadth and depth.
 Topics will include:
 
 1.  Identifying and articulating gaps in humankind's understanding of computing (i.e., research questions).
-	2.  Becoming a world expert in a small corner of computer science (e.g., by solving problems no one has solved before).
-3.  Developing, exploring, and evaluating approaches to filling those gaps (i.e., answering research questions).
+2.  Developing, exploring, and evaluating approaches to filling those gaps (i.e., answering research questions).
+3.  Becoming a world expert in a small corner of computer science (e.g., by solving problems no one has solved before).
 4.  Communicating what you have done and why it is important in both the written word (i.e., writing research papers) and verbally (i.e., by giving talks.)
 5.  A deeper understanding of core computer science concepts (i.e., you'll take some courses).
 
-The first two items sound grandiose, but they are accurate: If you complete a
+The first two items may sound grandiose, but they are accurate: If you complete a
 Ph.D. program, you will accomplish both of these to some degree, since they are
 the core of what being a successful researcher entails.  If you go on from your
 Ph.D. to be a researchers, solving unsolved problems will be your day-to-day job.
 
-Getting a Ph.D. will also make you a better implementor (item 3) and a better
-communicator (item 4).  These are skills of great practcial value in and out of
+Getting a Ph.D. will also make you a better implementor (item 3), and a better
+communicator (item 4). These are skills of great practcial value in and out of
 academia, but they are, unfortunately, generally outside the scope of
 undergraduate and masters programs.
+
+Item 5, is the only significant commonality between getting a Ph.D. and a masters degree:  The course work for the two degrees is generally similar, but course work is a very small part of getting Ph.D.
 
 ### I'd Actually Extend Human Knowledge?  Really?
 
@@ -77,12 +81,12 @@ contributions to knowledge.
 pictures](http://matt.might.net/articles/phd-school-in-pictures/).
 
 
-### What do I Do After I Graduate?
+### What Do I Do After I Graduate?
 
 Any of a great many things, including a few jobs that almost always require a
-Ph.D.: being a professor and being a professional researcher industry.
+Ph.D.: being a professor and being a professional researcher in industry.
 
-Ph.D.s are qualified for a wide range of technology jobs, including all of
+Ph.D.s are qualified for a wide range of tech jobs, including all of
 those that you could get with a masters degree.  However, you'll have more
 experience than someone with a fresh master's degree, better communication
 skills, a deeper knowledge of computing, and a better ability to see the big
@@ -109,13 +113,13 @@ fields who love computer science and who have enough discipline to work for a
 long time on a problem that interests them.
 
 You do not need to be genius to do research, and the vast majority of CS Ph.D.s
-are not geniuses.  You need to curious, interested, and determined.
+are not geniuses.  You need to be curious, interested, and determined.
 
 ### How do I get one?
 
 The core of a Ph.D. degree is learning to do research by doing research.  Over
 the course of 4-7 years, will work on a variety of research projects and write
-a number of research papers in close collaboration with your Ph.D. advisor.
+a number of research papers in close collaboration with your Ph.D. advisor and possibly other Ph.D. students.
 
 During the first couple of years, you will also take roughly the same courses
 you take to get an MS degree, but these are not your main focus.  They just
@@ -171,6 +175,12 @@ demonstrates your depth of knowledge in a particular area.
 Masters degrees typically take two years to complete, and [94% of students
 pay](https://mycsphd.github.io/2021/03/10/Taulbee-Survey.html) for their the MS
 degree themselves.
+
+## Which One Should I choose?
+
+You should choose the one that is best aligned with your goals and interests.  If you meet the criteria I outlined above for getting a Ph.D., a Ph.D. is probably a good option.  If you don't meet them, get a masters degree (or a job).
+
+If you think you might want a Ph.D. but aren't sure and you're worried about the committment, apply to Ph.D. programs and then, if you want, leave with a masters degree after two years.  You'll have a masters degree and been in the same place career-wise as if you'd just gotten the MS.
 
 ## Other Perspectives
 
