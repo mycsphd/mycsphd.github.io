@@ -27,6 +27,8 @@ Here's everything you need to attend the information session.
 |--------------------------|-------------------------------------------|----------------------------|
 | April 13, 12:30-1:30 PDT | [Ph.D. Student Life](https://app.sli.do/event/pa7fpp5w/live/questions?section=cbdbdb5f-720b-401d-96a4-fefbdb170b13) | [Ph.D. Student Life](https://ucsd.zoom.us/j/96060317375)         |
 |                          | [What is research?](https://app.sli.do/event/pa7fpp5w/live/questions?section=978d0265-70f4-4f0e-ad6a-f587c46fd9b2)                                          | [What is Research?](https://ucsd.zoom.us/j/95359302666)          |
-| April 21, 12:00-1:00 PDT | [link](https://app.sli.do/event/gignj6m4) | Applying to Ph.D. Programs |
-|                          |                                           | Should I get a Ph.D.?      |
+| April 21, 12:00-1:00 PDT | [Applying to Ph.D. Programs](https://app.sli.do/event/gignj6m4/live/questions?section=dcf4edff-2034-4818-9a28-cf00d22de33b) | [Applying to Ph.D. Programs](https://ucsd.zoom.us/j/92845627700) |
+|                          |   [Should I get a Ph.D.?](https://app.sli.do/event/gignj6m4/live/questions?section=778d692d-6082-4365-9be1-d5f549e32421) | [Should I get a Ph.D.?](https://ucsd.zoom.us/j/99616140453)      |
+
+
 
