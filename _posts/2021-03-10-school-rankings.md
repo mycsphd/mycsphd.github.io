@@ -28,7 +28,7 @@ Currently, [csrankings.org](https://csrankings.org) is one of the best ranking s
 
 # What Rankings Tell You
 
-CS Ranking's [methodology](http://csrankings.org/faq.html) takes a more objective and transparent approach.  It is based on how many
+CS Ranking's [methodology](http://csrankings.org/faq.html) takes an objective and transparent approach.  It is based on how many
 papers the university publishes in the most prestigious CS publication venues.  It
 has the advantage that it's completely empirical and a school's position is determined directly by a reasonable measure of research success (i.e., publishing papers).
 
@@ -38,7 +38,7 @@ puts Northeastern University as #1 in "Measurement and Performance Analysis" but
 #13 overall.  If that were your area of choice, Northeastern might be a better
 choice than CMU (#1 overall).
 
-Both CS Rankings and US News provide mechanisms for narrowing the rankings to
+Both CS Rankings provides a mechanism for narrowing the rankings to
 particular sub-fields of CS.
 
 # What Rankings Don't Tell You
@@ -79,7 +79,7 @@ reputation can persist even after research quality declines.
 There have been great many critiques of US News rankings:
 
 * This [article](https://github.com/GOTOrankings/gotorankings.github.io/raw/master/p29-berger.pdf) in the Communications of the ACM (the flagship publication of the Association of Computing Machinery, Computer Science's primary professional organization) argues that it is best to ignore reputation-based rankings altogether.
-* The [Computing Research Association](https://cra.org/) (a leading organization promoting CS Research) provided this [withering dismissable](https://cra.org/cra-statement-us-news-world-report-rankings-computer-science-universities/) of the rankings as "nonsense".
+* The [Computing Research Association](https://cra.org/) (a leading organization promoting CS Research) provided this [withering dismissal](https://cra.org/cra-statement-us-news-world-report-rankings-computer-science-universities/) of the rankings as "nonsense".
 * [Many](https://blog.regehr.org/archives/1558) [others](http://www.theexclusive.org/2017/11/cs-rankings.html) have written about a range of problems with them.
 
 To this expansive body of criticsim I'll add two things:
