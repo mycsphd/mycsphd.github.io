@@ -33,7 +33,7 @@ There are two mechanisms you can use to help us improve this web site:
 
 ## Contributing an Article or Blog Post
 
-We welcome contributions to the site.  If you have an idea for an article, please send email to swanson@cs.ucsd.edu to discuss what you're interested in writing and how it would fit into the site.
+We welcome contributions to the site.  If you have an idea for an article, please send email to [swanson@cs.ucsd.edu](mailto:swanson@cs.ucsd.edu) to discuss what you're interested in writing and how it would fit into the site.
 
 Once that's done the mechanics are like this:
 
@@ -60,7 +60,7 @@ You can preview your work locally.  The `Makefile` will start a local web
 server that serves the site.  Your draft article will (confusingly, perhaps)
 appear in the [Blog]({{site.baseurl}}{% link _blog.html %}).
 
-Let swanson@cs.ucsd.edu know that your article is ready and we'll take a look.
+Let [swanson@cs.ucsd.edu](mailto:swanson@cs.ucsd.edu) know that your article is ready and we'll take a look.
 Once everything looks good, we'll have you generate a pull request to merge it
 into the site.
 
