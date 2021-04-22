@@ -37,7 +37,7 @@ We welcome contributions to the site.  If you have an idea for an article, pleas
 
 Once that's done the mechanics are like this:
 
-1. Clone a copy of the site on github: {{ site.hydeout.repo }}.
+1. Clone a copy of the site on github: [{{ site.hydeout.repo }}]({{ site.hydeout.repo }}).
 2. Copy `_drafts/article-template.md` to `_drafts/good-short-name-for-your-article-not-like-this.md`
 3. Populate it with interesting advice and information based on your experience, expertise, or research.  Write in [markdown](https://commonmark.org/help/).
 4. If you need images (we love graphs!) put the images in `assets/img` and name them in a short descriptive way.
