@@ -19,7 +19,7 @@ San Diego](http://ucsd.edu), and it does not promote any particular school.
 Our hope is that this information will be useful in deciding whether a Ph.D. is
 right for you and in guiding you through the application process.
 
-# Upcoming Information Sessions 
+<!--# Upcoming Information Sessions 
 
 We have two [live information sessions](/upcoming-sessions) coming up in April.  You should come!
 
@@ -29,7 +29,7 @@ We have two [live information sessions](/upcoming-sessions) coming up in April. 
 |                          | What is Research?          |
 | April 21, 12:00-1:00 PDT | Applying to Ph.D. Programs |
 |                          | Should I get a Ph.D.?      |
-
+-->
 # Key Resources
 
 The site provides several resources:
