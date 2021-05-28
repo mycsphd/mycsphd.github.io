@@ -4,6 +4,7 @@ author: Steven Swanson
 layout: article
 ---
 
+
 https://cra.org/crae/activities/videos-computing-research/
 
 https://conquer.cra.org/students
