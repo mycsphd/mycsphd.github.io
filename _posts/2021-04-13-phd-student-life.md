@@ -1,5 +1,5 @@
 ---
-title: Ph.D. Student Life?
+title: Ph.D. Student Life
 author: Steven Swanson
 category: info-session
 tags: ['announcement']
