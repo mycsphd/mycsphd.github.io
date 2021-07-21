@@ -45,13 +45,13 @@ Many factors can determine whether a faculty member will admit a particular stud
 1. How strong the student's research background is.
 2. Whether the student is a good fit for the advisor's research plans for the coming years.
 3. How well the student did during an phone interview with the faculty member.
-4. Whether the student's file has any "red flags" that the advisor particilarly cares about.
+4. Whether the student's file has any "red flags" that the advisor particularly cares about.
 5. Whether the faculty member has enough research funding to support the student.
 6. Whether the faculty member is looking at applicants at all.  She might be on sabbatical and not even looking at applicants.
 
 If you don't consider the diversity of criteria faculty use (1-4 above) and the
 fact that faculty may not be looking at all (5-6 above), admissions decisions
-can appear very irrational and/or inconsisent.
+can appear very irrational and/or inconsistent.
 
 For instance, if the faculty that do security research all happen to be on
 sabbatical, or short of funding, or already have enough Ph.D. students then
@@ -71,11 +71,11 @@ For applicants to a Ph.D. program, this process has important implications:
 6. Personal connections can have a huge impact on your being admitted.
 7. The competitiveness of admissions varies across areas.
 
-On the last point, consider that UC San Diego's CSE program recived 11 times
-more applicaitons for Ph.Ds in machine learning than for Ph.D.s in computer
+On the last point, consider that UC San Diego's CSE program received 11 times
+more applications for Ph.Ds in machine learning than for Ph.D.s in computer
 architecture.  However, UCSD has only 2.6 times more machine learning faculty
-that architecture faculty.  As result, the program is much more competitive for
-machine learning applicants that computer architecture applicants: The
+than architecture faculty.  As a result, the program is much more competitive for
+machine learning applicants than for computer architecture applicants: The
 admission rates for ML and architecture were 6% and 15%, respectively.
 
 ## My Experience of Grad Admissions
@@ -87,17 +87,17 @@ Ph.D. admissions to give you data point about how this actually works.
 My program runs Ph.D. admissions as I described above, so the onus of identifying good
 matches for my lab falls mostly to me.
 
-I start by identifynig all the students who either 1) mention keywords
+I start by identifying all the students who either 1) mention keywords
 relevant to my research area in their application,
-2) mention me by name, or 3) are outstandings applicants in adjacent areas.
+2) mention me by name, or 3) are outstanding applicants in adjacent areas.
 
 This year that required me to look at about 150-200 applicants.  I'd do this in batches
 of 10-15, moving very quickly.  My first pass looks like this:
 
 1. Check most recent school and prior degree to calibrate GRE and GPAs. (5 seconds)
-2. Check GPA and GRE for anomolously bad values.  I don't look at transcripts -- it takes too long. (5 seconds)
+2. Check GPA and GRE for anomalously bad values.  I don't look at transcripts -- it takes too long. (5 seconds)
 3. Skim resume for publications, interesting (i.e., non-internship) work experience, and anything unusual. (5-20 seconds)
-4. Skim letters of reccomendation looking for evidence of success on projects and research experience and anything unusual (1 minute each)
+4. Skim letters of recommendation looking for evidence of success on projects and research experience and anything unusual (1 minute each)
 5. Skim statement of purpose looking for evidence research/project experience and anything unusual (1 minute)
 
 Based on the first pass, I'll narrow the big pile down to maybe 30-40
