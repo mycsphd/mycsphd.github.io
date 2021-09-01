@@ -39,7 +39,6 @@ Here are all the questions that have been asked and answered all our information
 
 ## Ph.D. Student Life -- 13 April 2021
 
-
 *  [0:00](https://www.youtube.com/watch?v=HpMazMxjKYI&t=0s)  Introductions
 *  [6:34](https://www.youtube.com/watch?v=HpMazMxjKYI&t=394s)  How can I tell if research is something I’d like?
 *  [8:06](https://www.youtube.com/watch?v=HpMazMxjKYI&t=486s)  Can you talk about a time when you doubted whether or not a Ph.D. was the right path for you?

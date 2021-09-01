@@ -145,7 +145,7 @@ The first, if you have decent grades, something you can position as research exp
 
 You might not get in, so hedge your bets.  This could take a few forms:
 
-First, you can apply to masters programs in addition to Ph.D. programs.  Getting a masters degree first [is not necessary]({{site.baseurl}}{% link _post/2021-03-10-do-i-need-an-ms-first.md %}) but it can be a good way to get research experience and strengthen your application.  
+First, you can apply to masters programs in addition to Ph.D. programs.  Getting a masters degree first [is not necessary]({{site.baseurl}}{% link _posts/2021-03-10-do-i-need-an-ms-first.md %}) but it can be a good way to get research experience and strengthen your application.  
 
 As you decide where to apply and attend for masters, look for places that have a thesis option or otherwise encourage/require a research component.  Not all master's programs require research.  Attending one that does will make it easier to attain your primary goal: Research experience.
 
