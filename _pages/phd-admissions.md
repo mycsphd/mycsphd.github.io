@@ -7,7 +7,7 @@ Ph.D. admissions works differently that undergrad or masters admissions.
 Understanding how it works, is a huge help in understanding how to craft your
 application.
 
-## The Goal of Ph.D. Admissions
+# The Goal of Ph.D. Admissions
 
 The goal of Ph.D. admissions is to admit student who will find an advisor to
 work with while successfully completing a Ph.D.
@@ -22,7 +22,7 @@ undergrad or MS admissions.  While those admissions processes are about
 filtering the incoming students, Ph.D. admissions involves both filtering and
 *matching* students to advisors.
 
-## Individual Faculty Play a Pivotal Role in Ph.D. Admissions
+# Individual Faculty Play a Pivotal Role in Ph.D. Admissions
 
 This is how admissions work at UC San Diego, where I served on Ph.D. admissions for
 many years:
@@ -38,7 +38,7 @@ that it is almost certain that some (and probably most or all) of the schools
 you are applying to have something like Step 4, where the preferences of
 individual faculty play a pivotal role in admissions decisions.
 
-## How Faculty Decide Who to Admit
+# How Faculty Decide Who to Admit
 
 Many factors can determine whether a faculty member will admit a particular students:
 
@@ -59,7 +59,7 @@ it’s possible that no security students -- no matter how excellent -- will be
 admitted that year.  In the same year, “worse” students might be admitted in
 another area, because faculty in that area are flush with funding.
 
-## What This Means For You
+# What This Means For You
 
 For applicants to a Ph.D. program, this process has important implications:
 
@@ -78,7 +78,7 @@ that architecture faculty.  As result, the program is much more competitive for
 machine learning applicants that computer architecture applicants: The
 admission rates for ML and architecture were 6% and 15%, respectively.
 
-## My Experience of Grad Admissions
+# My Experience of Grad Admissions
 
 The sections above are a summary of what I've read, heard, and observed about
 how Ph.D. admissions works.  Here, I describe my own experience and approach to
@@ -109,7 +109,29 @@ motivation, enthusiasm, how they approach problems, their creativity, and
 whether or not I can imagine talking to them for about 1 hour per week for 5-6
 years.  At the end, I'll select between 6 and 12 for admission.
 
-## Other perspectives
+# Other perspectives
 
 * [Reflections CS Graduate Recruiting](https://da-data.blogspot.com/2015/03/reflecting-on-cs-graduate-admissions.html) at CMU.
 * [Nadia Heninger's take on admissions](https://youtu.be/thZdtIQ3i_g) at PSU and UCSD.
+
+# Video Answers To Related Questions
+
+We did a [whole information session](https://www.youtube.com/watch?v=151sL2rTLXA) about this.
+
+* [How do I know where to apply? Where might I get in? ](https://www.youtube.com/watch?v=BWJKhhgPcf4&t=2144s)
+* [Should I still apply if I don’t have any research experience? ](https://www.youtube.com/watch?v=BWJKhhgPcf4&t=779s)
+* [​ How important is it to reach out to potential advisors before applying? Can they vouch for you in the application process later on? ](https://www.youtube.com/watch?v=thZdtIQ3i_g&t=3163s)
+* [How does work experience as software engineer factor in? Or does that only count if you’re part of a published research project? ](https://www.youtube.com/watch?v=thZdtIQ3i_g&t=1696s)
+* [grades, GMAT/GRE, recommendations or research experience? ](MS)
+* [What’s the weight of different parts of the application (test scores, grades, letters, SOP, undergraduate research)?](https://www.youtube.com/watch?v=thZdtIQ3i_g&t=934s)
+* [What are some of the qualities of an ideal candidate for a PhD? Conversely, what might raise a red flag in a candidate’s application? ](https://www.youtube.com/watch?v=BWJKhhgPcf4&t=457s)
+* [What’s the weight of different parts of the application (test scores, grades, letters, SOP, undergraduate research)? ](https://www.youtube.com/watch?v=BWJKhhgPcf4&t=451s)
+* [How should an undergrad get more exposure to the different research fields if we’re not sure what we want to specifically go into? ](https://www.youtube.com/watch?v=BWJKhhgPcf4&t=1475s)
+* [Everyone says machine learning is where it’s at, but I love (another area).  Should I do ML or follow my heart?](https://www.youtube.com/watch?v=4j6Iu0fzJuA&t=3063s)
+* [How many Ph.D. programs should I apply to? How do I choose?](https://www.youtube.com/watch?v=151sL2rTLXA&t=391s)
+* [How confident should I be on a specific research interest before applying to a Ph.D. program?](https://www.youtube.com/watch?v=151sL2rTLXA&t=831s)
+* [Does working on an undergrad research project without producing any publications look bad?](https://www.youtube.com/watch?v=151sL2rTLXA&t=1762s)
+* [How to apply to Ph.D. program after spending time in Industry?](https://www.youtube.com/watch?v=151sL2rTLXA&t=2088s)
+* [How important are different parts of applications: Letters, SOP, GRE, grades…?](https://www.youtube.com/watch?v=151sL2rTLXA&t=2623s)
+* [Do you have suggestions for Ph.D. application timeline?](https://www.youtube.com/watch?v=151sL2rTLXA&t=3134s)
+* [What form should the interaction with faculty prior to applying take?](https://www.youtube.com/watch?v=151sL2rTLXA&t=3377s)

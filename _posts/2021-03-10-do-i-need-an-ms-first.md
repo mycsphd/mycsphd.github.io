@@ -7,9 +7,8 @@ author: Steven Swanson
 
 NO! You *do not* need to get a masters degree before enrolling in a Ph.D. program, and the majority of new Ph.D. students do not have one.  In fact, if you know you want a Ph.D., it is a bad idea to enroll in a masters program first. Let’s consider the pros and cons.
 
-(There’s a  [video version](https://youtu.be/BWJKhhgPcf4?t=325)  of this answer.)
 
-## Having an MS provides few advantages
+# Having an MS provides few advantages
 
 Except in one case (see below), having a masters degree does not give you a significant advantage during the application process. Ph.D. programs regularly admit many students who have just completed their undergraduate degree.  For instance, in a recent year, the admit rate for UCSD's Ph.D. program is around 7% for students with a masters and around 13% for students with an undergrad degree.  And 60% of admitted students had only an undergrad degree.
 
@@ -17,7 +16,7 @@ The main practical impact having an MS will have as you start a Ph.D. program is
 
 In the end, you’ll wind up with an MS degree in addition to your Ph.D., anyway:  Usually, when you finish the course work for your Ph.D. you incidentally satisfy the requirements for a masters at the same time.  This also provide a convenient "off ramp" from a Ph.D., if you decide it's not for you -- you can just take your master's degree, leave, and get a great job.
 
-## Getting an MS first is usually a bad idea, if you know you want a Ph.D.
+# Getting an MS first is usually a bad idea, if you know you want a Ph.D.
 
 There are two reasons that enrolling in a MS program first is a bad choice, _if_ your ultimate goal is to get a Ph.D.
 
@@ -27,7 +26,7 @@ Second, the course work requirements for your Ph.D. program may not line up with
 
 So, if you suspect you might want a Ph.D., apply to and enroll in a Ph.D. program!
 
-## When it might make sense to get an MS first
+# When it might make sense to get an MS first
 
 The one exception to above might be if your undergraduate grades/project experience are not good enough to get into the Ph.D. program you want and you are determined to get a Ph.D.  In this case, you could enroll in an MS program, excel at it, and then apply to Ph.D. programs.
 
@@ -37,6 +36,15 @@ Even in this case, though, you should apply to Ph.D. programs and MS programs at
 
 Another alternative in this situation would be to go work for a couple years and demonstrate your skill and determination while getting paid, and then use that to bolster your Ph.D. applications.
 
-## Other Perspectives
+# Other Perspectives
 
 *  [How CS Master’s Funding Works (and Why You Can’t Seem to Get Any)](http://cs.brown.edu/~sk/Memos/Funding-CS-Grad-School/)   [Shriram Krishnamurthi](http://cs.brown.edu/~sk/) 
+
+# Video Answers to Related Questions
+
+* [Should I do a masters before I do get a Ph.D.?](https://www.youtube.com/watch?v=J-PXZE56_QM&t=1440s)
+* [How does having a masters degree lower my acceptance rate to Ph.D. programs?](https://www.youtube.com/watch?v=J-PXZE56_QM&t=2999s)
+* [Do I need to have a master’s degree to get a Ph.D.? ](https://www.youtube.com/watch?v=BWJKhhgPcf4&t=325s)
+* [Do I need to get as master’s degree before getting a Ph.D.? ](https://www.youtube.com/watch?v=thZdtIQ3i_g&t=797s)
+* [Would you recommend applying for BS/MS before applying for Ph.D.?](https://www.youtube.com/watch?v=J-PXZE56_QM&t=2010s)
+* [Would you recommend applying for BS/MS before applying for Ph.D.?](https://www.youtube.com/watch?v=J-PXZE56_QM&t=2010s)

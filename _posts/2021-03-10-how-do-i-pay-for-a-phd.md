@@ -73,3 +73,9 @@ chunk of money during the summer to supplement your GSR during the school year.
 
 Working a second job as a Ph.D. student during the school year is less common.
 Being a Ph.D. student is really a full-time job.
+
+# Video Answers to Related Questions
+
+* [How do I pay for a Ph.D.? How much does it cost? ](https://www.youtube.com/watch?v=BWJKhhgPcf4&t=370s)
+* [How do you pay for a Ph.D. and how much does it cost?](https://www.youtube.com/watch?v=thZdtIQ3i_g&t=859s)
+* [How does financial aid work for Ph.D. programs?](https://www.youtube.com/watch?v=151sL2rTLXA&t=3247s)

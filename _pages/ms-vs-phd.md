@@ -185,3 +185,11 @@ If you think you might want a Ph.D. but aren't sure (or you're  worried about th
 ## Other Perspectives
 
 [The illustrated guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/)
+
+## Video Answers to Related Questions
+
+* [Should I do a masters before I do get a Ph.D.?](https://www.youtube.com/watch?v=J-PXZE56_QM&t=1440s)
+* [How does having a masters degree lower my acceptance rate to Ph.D. programs?](https://www.youtube.com/watch?v=J-PXZE56_QM&t=2999s)
+* [Do I need to have a master’s degree to get a Ph.D.? ](https://www.youtube.com/watch?v=BWJKhhgPcf4&t=325s)
+* [Do I need to get as master’s degree before getting a Ph.D.? ](https://www.youtube.com/watch?v=thZdtIQ3i_g&t=797s)
+* [Would you recommend applying for BS/MS before applying for Ph.D.?](https://www.youtube.com/watch?v=J-PXZE56_QM&t=2010s)

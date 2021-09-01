@@ -3,7 +3,6 @@ tags: ['resource']
 title:  How To Interpret School Rankings
 layout: post
 author: Steven Swanson
-category: resource
 ---
 
 There are many different rankings available for Ph.D. programs in CS.  In making your decision about where to apply and attend for your Ph.D., use one that is based on meaningful, objective metrics of program quality.
@@ -86,6 +85,10 @@ To this expansive body of criticsim I'll add two things:
 
 1.  CSRankings.org provides, in my opinion, a more useful interface than US News for identifying top schools in your area of interest.
 2.  CSRankings.org and US News are 80-90% correlated (based on [this data](https://drafty.cs.brown.edu/csopenrankings/)).  Since you should only be using these rankings as a rough guide, it doesn't make that much difference which you use.
+
+# Video Answers To Related Questions
+
+* A [description](https://youtu.be/151sL2rTLXA?t=667) of rankings and [csrankings.org](http://csrankings.org) by it's creator, [Emery Berger](https://emeryberger.com/). 
 
 # More Ranking Sites
 

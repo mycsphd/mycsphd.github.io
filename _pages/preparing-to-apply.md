@@ -7,7 +7,7 @@ title: How should I prepare for applying to Ph.D. programs?
 
 It is never too late to decide to get a Ph.D. in CS, and there is still time to strengthen your application and improve your chances of being admitted a strong Ph.D. program.  Regardless of how much time you have, the goals are the same.
 
-## Understand Your Goals
+# Understand Your Goals
 
 Your goal is to be admitted to a CS Ph.D. program, so a good first step is to read about how the [Ph.D. Admissions process works]({{site.baseurl}}{% link _pages/phd-admissions.md %}) and [What parts of the application matter most]({{site.baseurl}}{% link _pages/application-parts.md %}).
 
@@ -20,7 +20,7 @@ So, preparing yourself (over months or years) to present a strong application me
 
 You will develop your aptitude for "research" by seeking out challenging computer science experiences and doing well at them.  You will demonstrate this aptitude primarily by getting supportive letters of reference from computer scientists (or people who can speak to your skills and experience ) and through your "statement of purpose" in your application.
 
-### Your Chances are Better Than You Think
+## Your Chances are Better Than You Think
 
 You do not need to be a stellar student or research prodigy to get into a Ph.D. program.  From googling around, you might conclude that multiple research publications, excellent grades, flawless GRE scores, and ecstatic letters of recommendation are necessary to get into graduate school.
 
@@ -30,7 +30,7 @@ The truth (as I know from many years of reading applications) is that there are 
 
 Furthermore, those merely-excellent Ph.D. programs graduate many, very successful Ph.Ds -- and it is perfectly possible for you to be one of them.
 
-### Do I Have to Have "Research Experience" to get into a Ph.D. Program?
+## Do I Have to Have "Research Experience" to get into a Ph.D. Program?
 
 No, you do not.  What you need to do is demonstrate that you have aptitude for research.  Doing actual research is an excellent (and the most direct) way to do this, but there are many others that don't involve actually doing research.
 
@@ -43,7 +43,7 @@ The fundamental skill you need to do research is the ability to make progress on
 
 Experience outside of CS is also potentially valuable, if it demonstrates general technical ability, creativity, or entrepreneurial tendencies, since these are all valuable traits in Ph.D. students.
 
-### Getting Good Letters of Reference
+## Getting Good Letters of Reference
 
 Regardless of what form your "research experience" takes, you will need someone to vouch for it, because a line on your CV does not show how engaged or successful you were or how much leadership you demonstrated.  And that is what the admission committee wants to know.
 
@@ -60,11 +60,11 @@ All of these take time and effort, and there are no short cuts.
 
 At smaller schools (e.g., my alma mater) with smaller classes, it is easier to develop the necessary relationships with faculty, since it is hard to "hide" in a small class.  However, at larger schools (e.g., where I teach) with larger class sizes, being invisible is the default, so being noticed takes work.
 
-## Courses Grades GREs and Other things
+# Courses Grades GREs and Other things
 
 Research experience and letters are the most important things in your application, but your coursework grades and GRE scores play a role as well.  We have a little [data]({{site.baseurl}}{% link _pages/application-parts.md %}#gpa-and-gre-how-good-is-good-enough) about how strong your scores should be.
 
-### Course Work
+## Course Work
 
 Professors making admissions decisions (some more than others) pay attention to overall grades and what classes you took, so it's important to pursue a rigorous course of study and to do well in your classes.  You should look for classes that will expose you to core computer science ideas, give you the opportinity to do interesting projects, and stretch and develop your CS skills.
 
@@ -76,7 +76,7 @@ If your university has a MS or Ph.D. program, taking graduate courses can be a g
 
 Accomplishing all this is not complicated (which is not to say it's easy):  Choose interesting classes, do well, and go to office hours. 
 
-### The GRE
+## The GRE
 
 Historically, you'd need to take and do reasonably well on the GRE.  However, it is [falling out of favor](https://www.sciencemag.org/careers/2019/05/wave-graduate-programs-drop-gre-application-requirement).
 
@@ -87,7 +87,7 @@ For now, you should probably plan on taking it.  Something things to keep in min
 
 Strong GREs will help your chances a little and, in my experience, low quantitative (i.e., math) scores are a red flag.
 
-## The Long Game
+# The Long Game
 
 If you know from early in college (say sophomore year) that you want to get a Ph.D., you will have plenty of time to prepare.  Below, is a do-everything-possible-to-maximize-my-chances time line for preparing for a Ph.D. 
 
@@ -128,7 +128,7 @@ You do not need to do all of this, but keep your eyes on the main goals:  Demons
     3.  Pick an offer to accept.
     4.  Take something fun.  You earned it, and if you go to grad school, no one (truly, no one, ever) is going to look at your spring semester grades :-)
 
-## The Rush Job 
+# The Rush Job 
 
 If you didn't figure out you might want a Ph.D. until late in your Junior year, don't worry too much.  There's still time to strengthen your application.
 
@@ -137,7 +137,7 @@ You can jump into the "Long Game" plan at any point.  However, if time is short,
 * Do an independent study in your strongest/favorite CS area.
 * Take a smaller, project-based, or "capstone" course.  Work hard and excel to make yourself noticed.
 
-## The Last Minute (or beyond)
+# The Last Minute (or beyond)
 
 If you decided you want a Ph.D. and your a senior (or have graduated), you have couple of options.
 
@@ -154,11 +154,22 @@ Second, you can work.  Industry experience also looks good on Ph.D. applications
 Happily, both of these options will advance your career regardless of whether you end up doing a Ph.D.
 
 
-## References
+# References
 
 1. There's a nice timeline at the bottom of [this page at Princeton.](https://www.cs.princeton.edu/academics/ugradpgm/gsg#Timeline)  The rest of page is good too.
 4. https://www.cs.washington.edu/academics/ugrad/current-students/career/grad-school
 
+# Video Answers to Related Questions
 
-
-
+* [How many Ph.D. programs should I apply to? How do I choose?](https://www.youtube.com/watch?v=151sL2rTLXA&t=391s)
+* [How confident should I be on a specific research interest before applying to a Ph.D. program?](https://www.youtube.com/watch?v=151sL2rTLXA&t=831s)
+* [Does working on an undergrad research project without producing any publications look bad?](https://www.youtube.com/watch?v=151sL2rTLXA&t=1762s)
+* [How to apply to Ph.D. program after spending time in Industry?](https://www.youtube.com/watch?v=151sL2rTLXA&t=2088s)
+* [How important are different parts of applications: Letters, SOP, GRE, grades…?](https://www.youtube.com/watch?v=151sL2rTLXA&t=2623s)
+* [Do you have suggestions for Ph.D. application timeline?](https://www.youtube.com/watch?v=151sL2rTLXA&t=3134s)
+* [What form should the interaction with faculty prior to applying take?](https://www.youtube.com/watch?v=151sL2rTLXA&t=3377s)
+* [How many schools did you apply to and how confident were you that you’d be admitted?](https://www.youtube.com/watch?v=HpMazMxjKYI&t=934s)
+* [Should I still apply if I don’t have any research experience? ](https://www.youtube.com/watch?v=BWJKhhgPcf4&t=779s)
+* [How do I know where to apply? Where might I get in? ](https://www.youtube.com/watch?v=BWJKhhgPcf4&t=2144s)
+* [Should I still apply if I don’t have any research experience? ](https://www.youtube.com/watch?v=thZdtIQ3i_g&t=2250s)
+* [​ How important is it to reach out to potential advisors before applying? Can they vouch for you in the application process later on? ](https://www.youtube.com/watch?v=thZdtIQ3i_g&t=3163s)

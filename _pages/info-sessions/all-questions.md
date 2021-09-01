@@ -11,7 +11,7 @@ Here are all the questions that have been asked and answered all our information
 * [4:00](https://www.youtube.com/watch?v=J-PXZE56_QM&t=240s)  Panel introduction
 * [16:45](https://www.youtube.com/watch?v=J-PXZE56_QM&t=1005s)  How can I tell if getting a Ph.D. is a good choice for me?
 * [24:00](https://www.youtube.com/watch?v=J-PXZE56_QM&t=1440s)  Should I do a masters before I do get a Ph.D.?
-29.35 What job prospects do Ph.D. have after they graduate?
+* [29.35](https://www.youtube.com/watch?v=J-PXZE56_QM&t=1775s) What job prospects do Ph.D. have after they graduate?
 * [33:30](https://www.youtube.com/watch?v=J-PXZE56_QM&t=2010s)  Would you recommend applying for BS/MS before applying for Ph.D.?
 * [36:54](https://www.youtube.com/watch?v=J-PXZE56_QM&t=2214s)  Is it worth getting a Ph.D. if I don’t want to go into research?
 * [41:39](https://www.youtube.com/watch?v=J-PXZE56_QM&t=2499s)  How did you know you wanted to pursue research?
@@ -32,7 +32,7 @@ Here are all the questions that have been asked and answered all our information
 * [39:46](https://www.youtube.com/watch?v=151sL2rTLXA&t=2386s)  How do I pick a Ph.D. adviser and do I have to do it before joining?
 * [43:43](https://www.youtube.com/watch?v=151sL2rTLXA&t=2623s)  How important are different parts of applications: Letters, SOP, GRE, grades…?
 * [51:37](https://www.youtube.com/watch?v=151sL2rTLXA&t=3097s)  Would I be able to transfer from an MS to a Ph.D. in the middle of an MS program?
-* [52:14](https://www.youtube.com/watch?v=151sL2rTLXA&t=3134s)  Do you have suggestions for Ph.D. application timeline+
+* [52:14](https://www.youtube.com/watch?v=151sL2rTLXA&t=3134s)  Do you have suggestions for Ph.D. application timeline?
 * [54:07](https://www.youtube.com/watch?v=151sL2rTLXA&t=3247s)  How does financial aid work for Ph.D. programs?
 * [56:17](https://www.youtube.com/watch?v=151sL2rTLXA&t=3377s)  What form should the interaction with faculty prior to applying take?
  
