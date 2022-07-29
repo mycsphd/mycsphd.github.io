@@ -36,7 +36,7 @@ take teaching professorships, which focus on teaching rather than research.
 Other positions, such as tenured or tenure-track positions, will focus more on
 doing research.
 
-## Jobs in Industry 
+## Jobs in Industry
 
 With a Ph.D. you are qualified for any job that might requires an master
 degree.  You will also have a "leg up" in jobs that involve key research skills
@@ -54,8 +54,8 @@ Some people also choose to work at smaller startups.
 ## What Job Should you Choose?
 
 There are a few considerations when choosing between academic and industry
-positions.  Industry positions tend to have higher pay compared to academic
-positions.  For instance, pay in industry positions typically ranges from about
+positions. Industry positions tend to have higher pay compared to academic
+positions. For instance, pay in industry positions typically ranges from about
 $90,000 for research scientists to $194,000 for chief data scientists
 ([data](https://www.payscale.com/research/US/Degree=Doctorate_(PhD)%2C_Computer_Science_(CS)/Salary))
 , with an average around
@@ -64,7 +64,7 @@ $90,000 for research scientists to $194,000 for chief data scientists
 Academic
 pay typically ranges from around $72,000 for some instructors to $160,000 for
 new full professors (note that salaries can vary a lot between institutions),
-according to the Taulbee Survery, and [less than
+according to the Taulbee Survey, and [less than
 10%](https://www.payscale.com/research/US/Degree=Doctorate_(PhD)%2C_Computer_Science_(CS)/Salary)
 of Ph.D. graduates end up with tenure-track positions.
 
@@ -77,8 +77,8 @@ Ph.D.s awarded in 2019.
 No, at least not in a way that will hurt you.  There may be some hiring
 managers who might feel this way, but on balance having a Ph.D. opens many more
 doors than it closes.  The Ph.D. employment statistics in the Taulbee Survey
-(above) make that pretty clear.  Also, you'd probalby be bored doing those jobs.
-	
+(above) make that pretty clear.  Also, you'd probably be bored doing those jobs.
+
 
 ## Other Resources
 

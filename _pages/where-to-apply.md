@@ -21,7 +21,7 @@ Likewise, this is not the time to carefully analyze and research schools.  Save 
 
 Your goal in the application process is to get into the best Ph.D. program possible.  What “best” means will vary depending on your situation.  Some criteria consider:
 
-1. School rank: The ranking of the school _in computer science_and _in your area of interest_.  School rankings are [imperfect but useful](link).  A school’s rank is the best measure of how competitive it will be to get in.
+1. School rank: The ranking of the school _in computer science __and__ in your area of interest_.  School rankings are [imperfect but useful](link).  A school’s rank is the best measure of how competitive it will be to get in.
 
 2. The faculty:  Use [csrankings.org]( [http://csrankings.org](http://csrankings.org/) ) to identify the faculty working in your area of interest.  Use the [Google Scholar]( [https://scholar.google.com/](https://scholar.google.com/) ) links provided there to verify that they are still actively publishing in the area.
 
