@@ -13,7 +13,7 @@ The contents of a Ph.D. application are pretty consistent across schools:
 
 1.  A transcript
 2.  GRE scores
-3.  TOEFL (Test of English as a Foregin Language) scores if you are an international applicant.
+3.  TOEFL (Test of English as a Foreign Language) scores if you are an international applicant.
 4.  A personal statement
 5.  Letters of recommendation
 6.  A resume
@@ -118,7 +118,7 @@ means you should pick those names with care.
 * [How does work experience as software engineer factor in? Or does that only count if you’re part of a published research project?	](https://youtu.be/thZdtIQ3i_g?t=1696)
 * [How important is it to reach out to potential advisors before applying? Can they vouch for you in the application process later on?	](https://youtu.be/thZdtIQ3i_g?t=3163)
 * [Should I still apply if I don’t have any research experience?	](https://youtu.be/thZdtIQ3i_g?t=2250)
-* [What’s the weight of different parts of the application (test scores, grades, letters, SOP, undergraduate research)?	](https://youtu.be/thZdtIQ3i_g?t=934) 
+* [What’s the weight of different parts of the application (test scores, grades, letters, SOP, undergraduate research)?	](https://youtu.be/thZdtIQ3i_g?t=934)
 * [What are some of the qualities of an ideal candidate for a PhD? Conversely, what might raise a red flag in a candidate’s application?](https://youtu.be/BWJKhhgPcf4?t=457)
 * [Should I still apply if I don’t have any research experience?](https://youtu.be/BWJKhhgPcf4?t=779)
 

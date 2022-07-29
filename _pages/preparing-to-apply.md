@@ -54,7 +54,7 @@ There are several ways to achieve this:
 1.  Work is a professor's research group.
 2.  Take one or more classes with the professor, go to office hours, and get to know them.
 3.  Take a small class from a professor where they can't help but be aware of the quality of your work.
-4.  Attend an Research Experience for Undergraduate (REU) program.
+4.  Attend a Research Experience for Undergraduate (REU) program.
 
 All of these take time and effort, and there are no short cuts.
 
@@ -66,15 +66,15 @@ Research experience and letters are the most important things in your applicatio
 
 ## Course Work
 
-Professors making admissions decisions (some more than others) pay attention to overall grades and what classes you took, so it's important to pursue a rigorous course of study and to do well in your classes.  You should look for classes that will expose you to core computer science ideas, give you the opportinity to do interesting projects, and stretch and develop your CS skills.
+Professors making admissions decisions (some more than others) pay attention to overall grades and what classes you took, so it's important to pursue a rigorous course of study and to do well in your classes.  You should look for classes that will expose you to core computer science ideas, give you the opportunity to do interesting projects, and stretch and develop your CS skills.
 
 You need to be noticed in many (or at least some) of your CS classes, because some of your letters will be based on course work:  You will need at least three letters and it is unlikely that you'll work directly with three different professors on research.  
 
-Letters that say "They did well in class" are pretty useless -- that information is in your transcript.  Instead, you need your instructors to remember you and the work you did in class so they can explain why it was good and meaningfully (and postively) compare you to other students.
+Letters that say "They did well in class" are pretty useless -- that information is in your transcript.  Instead, you need your instructors to remember you and the work you did in class so they can explain why it was good and meaningfully (and positively) compare you to other students.
 
 If your university has a MS or Ph.D. program, taking graduate courses can be a good option.  They tend to be smaller than undergrad classes, they cover material in more depth, and they might even let you skip some requirements in grad school.  Of course, you still need to do well and get noticed by the professor.
 
-Accomplishing all this is not complicated (which is not to say it's easy):  Choose interesting classes, do well, and go to office hours. 
+Accomplishing all this is not complicated (which is not to say it's easy):  Choose interesting classes, do well, and go to office hours.
 
 ## The GRE
 
@@ -157,7 +157,7 @@ Happily, both of these options will advance your career regardless of whether yo
 # References
 
 1. There's a nice timeline at the bottom of [this page at Princeton.](https://www.cs.princeton.edu/academics/ugradpgm/gsg#Timeline)  The rest of page is good too.
-4. https://www.cs.washington.edu/academics/ugrad/current-students/career/grad-school
+2. <https://www.cs.washington.edu/academics/ugrad/current-students/career/grad-school>
 
 # Video Answers to Related Questions
 

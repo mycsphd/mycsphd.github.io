@@ -7,7 +7,7 @@ author: Steven Swanson
 
 There are many different rankings available for Ph.D. programs in CS.  In making your decision about where to apply and attend for your Ph.D., use one that is based on meaningful, objective metrics of program quality.
 
-Ranking are an important tool for figuring where you might want to apply and
+Rankings are an important tool for figuring where you might want to apply and
 which offer you ultimately accept.  However, rankings are just one of several
 factors you should use in making this decision, and as a result, there's no
 need to obsess about detailed orderings that they provide.
@@ -81,14 +81,14 @@ There have been great many critiques of US News rankings:
 * The [Computing Research Association](https://cra.org/) (a leading organization promoting CS Research) provided this [withering dismissal](https://cra.org/cra-statement-us-news-world-report-rankings-computer-science-universities/) of the rankings as "nonsense".
 * [Many](https://blog.regehr.org/archives/1558) [others](http://www.theexclusive.org/2017/11/cs-rankings.html) have written about a range of problems with them.
 
-To this expansive body of criticsim I'll add two things:
+To this expansive body of criticism I'll add two things:
 
 1.  CSRankings.org provides, in my opinion, a more useful interface than US News for identifying top schools in your area of interest.
 2.  CSRankings.org and US News are 80-90% correlated (based on [this data](https://drafty.cs.brown.edu/csopenrankings/)).  Since you should only be using these rankings as a rough guide, it doesn't make that much difference which you use.
 
 # Video Answers To Related Questions
 
-* A [description](https://youtu.be/151sL2rTLXA?t=667) of rankings and [csrankings.org](http://csrankings.org) by it's creator, [Emery Berger](https://emeryberger.com/). 
+* A [description](https://youtu.be/151sL2rTLXA?t=667) of rankings and [csrankings.org](http://csrankings.org) by it's creator, [Emery Berger](https://emeryberger.com/).
 
 # More Ranking Sites
 

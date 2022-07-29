@@ -4,7 +4,7 @@ title: Can you do a Ph.D. part time?
 author: Steven Swanson
 ---
 
-I haven't been able to find any data on this, but concensus among faculty I've
+I haven't been able to find any data on this, but consensus among faculty I've
 talked to is that it is possible but extraordinarily rare.  There are probably
 a few reasons for this, among them:
 

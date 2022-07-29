@@ -24,7 +24,7 @@ focus of a Ph.D.
 You should get a Ph.D. if all of these are true:
 
 1.  You love computer science.
-2.  You are vicerally excited about extending the reach of our collective understanding of computers.
+2.  You are viscerally excited about extending the reach of our collective understanding of computers.
 3.  You want to work on hard, open-ended problems that no one has solved before.
 4.  It supports your career plans.
 
@@ -61,7 +61,7 @@ the core of what being a successful researcher entails.  If you go on from your
 Ph.D. to be a researcher, solving unsolved problems will be your day-to-day job.
 
 Getting a Ph.D. will also make you a better implementor (item 3), and a better
-communicator (item 4). These are skills of great practcial value in and out of
+communicator (item 4). These are skills of great practical value in and out of
 academia, but they are, unfortunately, generally outside the scope of
 undergraduate and masters programs.
 
@@ -69,7 +69,7 @@ Item 5, is the only significant commonality between getting a Ph.D. and a master
 
 ### I'd Actually Extend Human Knowledge?  Really?
 
-Yes, really.  Doing succcessful research means writing research papers, and
+Yes, really. Doing successful research means writing research papers, and
 papers don't get published without a meaningful _novel contribution_, which is a
 new piece of knowledge that the paper presents.  
 
@@ -103,7 +103,7 @@ some positions.  I suppose that might be true, but two things:
 
 1.  Once you have a Ph.D., you'd probably be bored by those jobs.
 2.  Ph.D.s are in high demand and the unemployment rate among new Ph.D.s is
-    extremelly low ([2019 Taulbee survey, Table D4]({% post_url
+    extremely low ([2019 Taulbee survey, Table D4]({% post_url
     2021-03-10-Taulbee-Survey %})), so it's very, very likely you'll find a job.
 	
 ### Who is Qualified to Get A Ph.D.?
@@ -166,7 +166,7 @@ anyone who's willing to pay tuition.
 ### How do I get one?
 
 Master's degrees are, in many ways a natural continuation and deepening of your
-undergraduate education in CS.  The sturcture is similar: You take courses with
+undergraduate education in CS.  The structure is similar: You take courses with
 homeworks and exams.  In most programs, once you take enough courses, you get a
 masters degree.  Some programs allow (as an option) or require you to produce a
 masters thesis -- a write up a small research or implementation project that
@@ -180,7 +180,7 @@ degree themselves.
 
 You should choose the one that is best aligned with your goals and interests.  If you meet the criteria I outlined above for getting a Ph.D., a Ph.D. is probably a good option.  If you don't meet them, get a masters degree (or a job).
 
-If you think you might want a Ph.D. but aren't sure (or you're  worried about the committment), there's an easy third option:   Apply to Ph.D. programs and then, if it's not for you, leave with a masters degree after two years.  You'll have a masters degree and been in the same place career-wise as if you'd just gotten the MS.
+If you think you might want a Ph.D. but aren't sure (or you're  worried about the commitment), there's an easy third option:   Apply to Ph.D. programs and then, if it's not for you, leave with a masters degree after two years.  You'll have a masters degree and been in the same place career-wise as if you'd just gotten the MS.
 
 ## Other Perspectives
 
