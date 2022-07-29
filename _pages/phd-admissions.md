@@ -74,8 +74,8 @@ For applicants to a Ph.D. program, this process has important implications:
 On the last point, consider that UC San Diego's CSE program received 11 times
 more applications for Ph.Ds in machine learning than for Ph.D.s in computer
 architecture.  However, UCSD has only 2.6 times more machine learning faculty
-that architecture faculty.  As result, the program is much more competitive for
-machine learning applicants that computer architecture applicants: The
+than architecture faculty.  As a result, the program is much more competitive for
+machine learning applicants than for computer architecture applicants: The
 admission rates for ML and architecture were 6% and 15%, respectively.
 
 # My Experience of Grad Admissions
